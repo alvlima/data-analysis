@@ -1,0 +1,151 @@
+codigo_tiss,consulta_id,consulta_online_id,especialidade_id,exibir_agendamento_online,nome
+8032,dbf3306a-1155-4f9c-93db-2a8d8afca1b6,eabdca83-3f0f-4559-91d7-cf380d3dc67e,9,Não,Assistente administrativo
+2488,5bc289ca-7609-497b-a6ac-9e53707b4e91,e603eee5-b2f9-4fc8-9b8f-e3a712bd8447,7,Sim,Conferente de recebimento
+9138,99ffdb82-627c-44f6-a448-781e883066f3,62cbbb4d-7b9d-4649-81dd-1f1e5c6f82ee,2,Sim,Auxiliar administrativo
+5965,3b6f02fa-3abf-4739-9436-9568349da772,1ce8763e-0b9d-4d93-94fb-69ae79481840,10,Sim,Técnico em radiologia
+8580,fd9b1ae6-e882-4b0d-9da8-68c1b9def4a8,b07ccff1-4cc1-42e3-96ed-72e208232254,10,Não,Alfaiate
+2895,458818b4-85bf-4625-bac7-be588e155308,969b9206-bded-42e9-acbb-85d5d7669cfa,9,Não,Laboratorista
+9559,509476cb-398e-4def-9660-28bc0d03d4fd,94d0cc47-1aca-4687-9f5c-55f3f156081e,4,Não,Atleta de nado sincronizado
+3869,9358aaa7-cdef-4432-bc01-a9939e171580,b8262966-99ea-48e7-9f12-600215486be0,2,Sim,Chaveiro
+9463,3471c59a-1d3c-4b13-8adb-c835ef573bdc,998948c4-15a6-4873-ba5c-1163579fc58b,6,Sim,Pediatra
+4999,82e2798d-873a-4c2c-a657-f165f6d63633,53d47f84-5161-4251-93c2-f8adbf4a5cac,6,Sim,Tenente
+7725,16b4c880-e908-48f4-ab57-e91ca3e8c5d1,01573b2d-5069-482c-b387-063f73284b91,9,Não,Somelier
+5483,1aa30a28-3feb-47dd-9dce-e346b200f39d,afaa39b8-6f6f-45a6-abe4-73855fb667a9,6,Não,Engenheiro de manufatura
+1773,4ede84c7-2423-41b5-b162-b831cd110740,0084ee20-939c-4d13-8a18-194eec7b9e11,5,Sim,Pesquisador
+1259,bebd0a16-622b-4181-99d0-ce902009c4ec,9763e3d5-116d-4d3b-8511-d88a0f070979,6,Sim,Tecnólogo em tecnologia da madeira
+4919,f84c2fcf-08b0-4e33-9444-b6ad9c805d1b,8cb23925-109f-4399-9e88-494d31342e63,1,Não,Tenente
+3388,aed38ccd-c510-430c-86c5-15baea17c23e,c64e6cf5-64d5-41b5-8194-7553fd59ed0b,8,Sim,Pintor
+6093,082b67ee-fdf0-4d3a-ac79-89d20d904aa1,94e406fe-a796-48c7-92e7-380c294cc9a7,1,Não,Moldador
+2245,d054107a-11b9-43ab-8524-b9374f254aa1,db6aecf7-eb8a-4a06-8ba8-dfa4e3f3cc88,6,Sim,Empregado doméstico
+3372,2e88a08e-747c-4df0-bd87-1b23d0fbd970,3b923067-cb3e-4c51-9b75-74e6c997966b,7,Sim,Biólogo
+7539,1ceb9c71-0afb-4ee0-accb-987fae03b9be,942eeb0e-9dee-425c-a07a-ae69907b6587,4,Não,Ferreiro
+6971,d631c908-f360-4c47-868c-5505f510c186,c8127205-c1c0-4c91-8002-70ba092739af,10,Não,Quitandeiro
+1890,c12bf74b-5125-477a-9a00-4e39edcd8b45,19ba332f-fe36-4bfc-b214-6fa42706d4b6,10,Não,Tesoureiro
+8663,9513c1a8-facd-4ec3-a36d-414532ce47eb,523379aa-ec99-4938-bf0f-566c4508f132,2,Sim,Agente de defesa sanitária
+9337,74b246db-c450-4ce8-8e0d-48e1013076dc,529880c9-0aad-4854-99ad-f752374b3234,7,Não,Guarda ou policial rodoviário
+1566,34f4a229-2ba8-4828-8da0-f0abbfff73eb,d2fcd78b-bfc4-4de1-8744-d8c3c3d949c7,10,Sim,Cirurgião dentista
+9896,5ccaa35d-fc41-4656-bcfc-51b23dc84ab2,4aa8c2a4-c765-4a42-b849-437874f1afa8,4,Não,Engenheiro elétrico
+9666,3c8026b2-5f20-41c2-8682-e326d99ead42,6c3fdb7d-08ad-4758-a2cc-53b2fb758108,1,Não,Assessor parlamentar
+8201,94c569a1-12d1-4b06-bd90-5123aa45fc83,52ff468f-c332-41b3-897d-a63156fdcb03,2,Sim,Atleta de nado sincronizado
+4358,4d5b3389-ab62-4d42-8561-64ac99817139,6c8577d0-759a-4221-a109-c951d0312a04,10,Não,Velejador
+6034,852588a8-35d0-4ef1-93f4-59dcaf0ebf53,40c3fb68-e17d-4a0f-aa20-6821ee79eb35,8,Sim,Profissional de reciclagem
+2713,6f7899fa-5a62-4047-aaec-aaa1ec42718d,ef9eedc7-19ac-4d28-808d-174dcd14d692,4,Não,Lutador de kung fu
+6268,cf111efa-4761-489a-8736-7d3aaf50cd31,7515c101-0e12-43da-8691-27212e4931d6,8,Não,Contra regra
+8445,e8a9b7f7-3387-4a4d-9496-abf2aec4d3f3,ba0fb71a-02c9-4080-8f97-c0d0a181b9aa,10,Sim,Escritor
+4276,d3f74051-1220-472f-af4e-cc15b40e0882,b8860c3f-d438-4332-a8d7-7bca56355136,3,Sim,Vigia parlamentar
+1343,c1250aad-2a85-402b-aa7d-27b3c26a9b83,9b26d893-b3cc-4b93-a3b9-5a2be7d4dc24,3,Sim,Tenista
+7243,2c1965d9-3244-458b-80ee-07b3bb6ff514,463cfc4c-b54d-4e2b-8313-c1c629297301,1,Sim,Restaurador
+3100,0599d537-f81a-4495-ba40-1ebbca0fbf60,bf2b2452-6a4b-48e1-a5a1-b46182a76ce4,4,Não,Pediatra
+7412,295f9907-defe-4418-a6ff-a88c142a1843,362d49fa-7c2e-40c2-bf73-3e3d10719ee8,7,Não,Oculista
+7146,e24bc8ab-9864-4ab1-a08b-be7aff3e5555,ce6d3f3c-15d3-43f1-9252-e2169fc48241,2,Sim,Designer de moda
+3296,cf1c2530-86d4-4a04-833c-dc4addba98f8,6a11d3ef-e4f1-420b-b630-9290351379a1,1,Sim,Vendedor
+6102,919af8fd-90a8-42a2-8008-d45c530143b9,1e2ab29d-c281-40aa-ac79-da3cf3b47d3b,1,Não,Cenotécnico
+1497,3e3df8c8-79bf-479c-bebb-01f087b74b53,b9cd9f31-f34d-4c23-81a2-d2e752283761,5,Sim,Enfermeiro
+3087,039f69d0-4a74-4ba6-976d-5de4b8f106c4,3dc442e0-a678-4b89-8604-96e9a4cb9360,1,Sim,Ourives
+9634,d1ded8af-c580-4495-b413-32ee12245d2c,f2843f4f-fd4e-44dd-937c-64eb83886391,5,Não,Tintureiro
+3808,1caeab2a-3637-4b51-86ea-8f940ca29268,436b6284-4697-43df-ba5d-a4411182b5f0,10,Não,Massoterapeuta
+5660,eb6aa7e8-13af-4321-9945-d532a35c0b51,d5818efd-aeb0-4399-b54c-1bdc89155352,7,Sim,Profissional de recursos humanos
+7676,6f59ae2d-acb5-44ed-83fc-5b3c9357159b,ed884b30-2a4e-4414-b328-a0e5ae171daf,2,Não,Bombeiro
+4637,70d390d1-1e3f-4f20-a31d-1e28b1dee9f2,a5dd8dc6-fe08-4c89-bbc6-352f5905eef5,5,Sim,Diagramador
+8976,b4cc042d-222d-49e1-81ec-0da833694be2,360f71c3-41d2-480a-88e3-68623e3fe2b0,2,Sim,Profissional de comércio exterior
+9725,4ee7fb31-5e8d-42e7-8ffb-e110184bdbe4,b01529ba-f888-495d-ab27-07623662ba53,6,Sim,Jogador de badminton
+4359,112db683-483e-4709-a6c2-ef3142d4262b,41c4a727-c7c8-4ade-b86a-7f7192d0d3bb,10,Não,Corregedor de justiça
+4639,ab4c9475-c0a7-469b-8f11-c4069b99b4bf,66313b6b-3a48-4f4f-9c83-99d02cc44e00,9,Sim,Médico nuclear
+9814,c361ef50-2020-4fed-97ba-792f16c12878,4f097cec-110f-4b47-86d6-60e8b97d5338,6,Não,Juiz ou árbitro de futebol
+6600,98e5550e-8025-4c29-90e9-3ea0d00e50bd,578068a4-fadc-4197-a2a5-4335f9092973,2,Sim,Assistente social
+7820,4095c415-7fb8-4ea3-90dd-c65cb092f680,f3525eb7-0adc-46d5-9228-f3f93cb2be5d,3,Sim,Cinegrafista
+5136,37423092-141c-44d0-9167-5676605ddcf6,c18f8d26-5f4c-44a3-95e7-ae972659d01f,7,Sim,Flautista
+3195,0760a4cb-e499-4723-8aec-0fa6342c130e,715af142-a03f-4e00-87e0-ec615ffe76db,5,Não,Advogado
+5221,07274f90-f464-4939-b0a3-06fc281bd3ff,8378939b-8fd7-4043-a80f-fa09c480ac45,4,Sim,Mestre-de-obras
+3893,be69d437-5c74-484d-a0c6-eb08d6555ba4,001a5f65-4b26-4f21-98c0-1ff4277707f0,3,Não,Locutor
+2556,138f09e7-e765-4e96-abd3-9502fb4150e2,64825b60-81f4-47d9-8712-4233d7485e3f,4,Sim,Catador de carangueijos
+5013,b4851012-a2fd-4a72-9c42-a6d92a53afac,5b8a19c7-ef9e-4cfb-abef-a920f2f5a1d8,5,Não,Contra regra
+5873,b879c0d8-7256-4f26-94a4-a8bd8f665105,cd63b439-5c1f-4ac8-b982-f298b49fe2a9,7,Não,Instrumentador cirúrgico
+2862,1dc3533f-3bf3-4624-a41a-b5c084b887f4,b3527d6a-ab5f-4b3e-988a-3df2a24520ed,10,Sim,Penhorista
+9365,9d5559e6-141a-4fc8-a086-35b95cecb15b,88f3029f-08cd-482c-975f-92bb9cbaf560,5,Não,Telefonista
+9433,a92113f8-b9fe-433e-845b-e3fb3e9a6ad2,2761622d-9d01-44b9-8dd6-ce40ebd550ef,4,Sim,Triatleta
+1684,58ee5fe0-84a7-4dc0-8c8f-97fab9c3e9eb,a95812fd-4852-4e79-9245-dbecb6fd4579,6,Não,Atleta de tiro com arco
+2007,08d2c1ff-1659-4cb5-a1b5-155b6ffc3375,e03e633a-a7c8-40da-acb1-f84ae8f42b8d,1,Sim,Lapidário
+7144,85de538b-2a69-4149-a74d-c5dda628e2cf,3221ce68-b0b7-44ff-b819-c260adca3a66,1,Sim,Webmaster
+1716,6673f6bd-68ae-4505-a7e3-607370283743,adba1018-2e82-4215-9eaf-dcf3a4322f93,7,Não,Jóquei
+4231,fb3d03ec-83e8-4fa4-aaa3-76ffb90eafa9,26d76cb7-9458-488e-9b5a-fbc581e5797d,7,Sim,Segurança particular
+7578,dc361715-724c-4c16-b8f8-60e2fdf46ff3,e096684f-bccd-49e6-9987-eca86032dcbd,5,Não,Grafologista
+9756,745594ef-dfae-49c1-80fb-69798f608a5b,ff4a0c03-5933-4c68-adc9-ffb146439153,10,Não,Fundidor de placa de gesso
+4759,7fe68862-6317-463f-a966-38e5e77360e8,0573d64a-c168-4950-a83c-5b97679e4283,9,Não,Cenotécnico
+7239,8c86034a-c51a-4874-b78c-be047d87c88f,b9fdbfef-86ae-4612-8dfc-eb740232fbbe,7,Sim,Cientista de alimentos
+2507,aa428248-5361-42d8-ac7d-b06cde4206cb,d7577ce7-b96e-4eef-8e81-b01ae0a32163,7,Não,Assistente social
+6442,2f0c8b83-dc36-409c-bcf7-b17e09493c10,7ce05766-6c5e-43c5-be8d-a3129febfe2a,4,Sim,Profissional de reciclagem
+5021,342806d4-3bf6-4605-ae43-26354156de90,a7dd0610-74b1-4725-856e-403756b654fd,1,Sim,Profissional de áudio
+1920,cb212358-2082-4f00-add6-963832cb58fe,b3281027-65f1-4449-817a-c6637b2b465a,10,Sim,Sexólogo
+9599,37b5cc2d-23a7-43c2-ad56-240dcd91751c,299dad29-7c12-4001-8c5b-c49ae0125f7b,8,Sim,Neurocirurgião
+2652,dc494f8c-51b3-4d72-8b3f-6c69f24ea597,29b659e6-6837-4a97-817d-c7117d805efc,10,Não,Economista
+6615,bad28b75-3ade-4681-ba10-8a219c67cdbb,123ff21f-ffb8-4ea4-8f8a-4754eb7ab7d7,8,Sim,Ministro
+2614,d5080c4f-5c85-4520-990b-d9fbd7e06613,88c1e686-0e5a-4082-bc4b-728a3952cdee,5,Sim,Paisagista
+7297,dfa55280-1d97-4fbd-b0fb-b595005cbf38,511ec5fd-e8cb-4a53-b5af-ebc5a6cb834a,9,Sim,Engenheiro agrimensor
+3440,026e4f97-fdaf-4d15-ab7d-5cbde9677c08,e9295bca-4304-4932-ba64-607a3103bdee,2,Sim,Eletricista de automóveis
+5122,0ea2fba1-d91a-415d-9e8d-37a0ccf5b73e,5dbd04e5-5eb2-4035-ab23-3ee2ca50ed56,3,Sim,Engenheiro de produção agroindustrial
+6102,f4fb58d9-78d2-4f28-b4ad-06e66856711d,841ff934-6251-48e3-970b-46c38a7d555f,3,Sim,Telefonista
+7840,c8801663-4d19-44cf-90b8-8d02b2a03bdd,a10b69e9-03b5-4c5c-a4d5-6afe07210073,1,Não,Síndico
+2250,0c48c040-2b6f-4157-87a1-f1e265135d21,ab83f3ba-6909-41a4-9a79-01d41201553b,8,Sim,Gastroenterologista
+1395,d4b8dd64-a151-4773-8f4b-c5756ec2a37c,9eb6210f-9258-476f-9347-a4e3bc269d99,10,Não,Capataz
+5488,d40a272f-c5d9-4cfe-9e19-927ccdf95d47,e5379f37-9ca3-4837-a6e3-2535c9ee9fb6,1,Sim,Paramédico
+3528,7f4ac1da-6921-45bd-aa17-659b7e005e50,3e6d9fce-a175-4607-b3ce-58cbf65619e2,5,Sim,Enólogo
+9501,598bb171-1f20-4dca-8a0d-8aee2f8e2704,64f3c3c4-ab35-4aed-849f-ee80f8535d3e,10,Sim,Cadista
+9084,301fe3d4-18d5-44a0-a3d1-9508fc952056,d430377a-5cb3-4d47-b2d1-e44873fb1d23,5,Não,Coreógrafo
+7227,99bd0350-17b5-4b07-ba65-e47f5f92b29f,1f14251e-2fec-4003-b4e0-86c47d097ace,7,Sim,Engenheiro de controle e automação
+5153,5f5268a4-bc79-464c-bcad-9a4acbaed34a,cda9d8cf-b09c-49ba-b752-c107f4982b1d,6,Sim,Radialista
+2316,05ee23ff-b78f-40a5-aa69-8cd217305bf6,5ea0e2ec-5966-4fe1-b58a-706a3495b093,7,Não,Meeiro
+5016,0a31b658-db76-4505-a4ad-1d40ee34213d,4e0f88af-d10e-422c-87c9-45366a7382c6,4,Sim,Diretor de produção
+8613,fe30d4d2-9bb1-49bd-a3b2-c5e027609f0d,863cf11d-a484-4e36-acf4-93ff0e4437c5,6,Sim,Lactarista hospitalar
+7316,623b52ff-8e6d-4f4e-b139-8bef880ffa9e,9461647e-7f8b-48c0-9ea5-861a6ecab78a,6,Sim,Odontologista estético
+4848,31ce8a8d-aacc-4d33-b2f2-7e4321d59e11,8fcf5810-e5d8-4ef1-b4f8-f8dc19e2b0aa,8,Não,Escriturário
+5490,42ed9d3b-311a-4dbc-8095-bc22038b945f,b6d36af0-7ebb-4ff8-8804-01a6f28d032e,4,Não,Gerente de inovações ou novos negócios
+7603,e8ce9497-acef-4ff2-963d-792cf5430580,28395a41-0e2d-4197-913c-845f24de9d8c,4,Sim,Diagramador
+3335,26d3c4a4-724a-4184-827f-d7da03f88e32,cf3d8e86-fe13-4e3a-b187-e1b85fd566c6,1,Sim,Gari
+2920,ae83201f-10e0-4a79-ab19-e7c114ec16e5,a40aedf1-1a70-43a8-8a88-07cd6cd575d5,1,Sim,Ator
+2396,b0d4f323-03fb-4aa7-92c2-5989486c9065,c96bd81e-8b46-4f18-a921-ba691352849a,9,Sim,Contábil
+9200,c3286480-18f9-4079-9440-ef8d4ab6a661,6222685d-a03d-4ab0-b5a4-5ed752f89712,9,Não,Ferramenteiro
+9034,b960c909-8f4e-41f9-ad43-fe613e898ca8,d350befa-09ee-444d-ad46-c51a0f16f9ad,1,Sim,Frentista
+4687,2573fe68-b796-456d-af83-cc4fb4504b5d,5db4f173-43a7-4ca4-bfb0-0bad47913357,8,Sim,Bioquímico
+9661,7cb4e33e-7dfb-4c39-a86b-c576e9bd916c,197e0757-96ee-45d4-aab2-b87a30150817,3,Sim,Cabo
+2703,1fe7590d-d699-4081-b2e8-9ba3414f8629,f9c5a0b6-1238-46f6-acca-ee1f8e39cd90,10,Não,Governador
+1996,3769ab7e-a329-4d1e-80b9-a3007dc33679,b1ef2325-6b95-4daa-9508-de477bddd2fe,9,Não,Aviador
+2886,eb6a16b5-796c-4837-aa9e-e4ddb7eb6cd5,da7d6e13-8f9e-4b21-9ad9-38378217a7f8,4,Sim,Assessor de imprensa
+3533,fc9c549c-a1ad-4259-bd07-f6e367d5f881,80d64275-7b1b-446b-a8a4-8d8565e2344e,10,Sim,Roteirista
+3342,13db35f9-961d-46f2-a118-377e8420fed0,de2c1faf-33c9-4235-a06e-325051f85bf0,4,Sim,Costureira
+3473,58ebedb7-cbac-48ee-b634-7a3f485877c3,a5a325b1-6144-41dd-87fb-822b32897a1e,5,Sim,Cientista
+7755,f6ba310b-3139-480b-9c2d-371d48d6879f,afa46189-efd9-43a6-ac94-c0d7fa8828aa,5,Sim,Desembargador de justiça
+2995,34de0c3f-3368-4f41-8c21-b818322c4050,08c95600-b32f-44d9-8af2-17bbaa27f169,4,Sim,Atleta de canoagem
+3139,3e34a442-df9c-420b-b0d2-c7a4981e154f,18d7b148-c07b-4585-aba6-7a8afdc10a5f,7,Não,Tecnólogo em automação industrial
+1034,8f75606a-e5d3-47b1-b12d-0e390610262f,08531184-22c4-4384-a608-e09d65cb59db,9,Sim,Topógrafo
+1214,a8bec01e-b6be-4668-a7cd-48bcb762b337,72347c20-4366-4820-a5cb-9128d69fb8a2,7,Não,Profissional de rádio e tv
+7964,2f908c12-3a2c-42f5-ad5c-38be3d2bcfea,ef667396-dc1d-4b22-a108-5e1fddbe3213,5,Sim,Webmaster
+1236,420551f9-f3dc-4c95-a87f-181126062a1d,1c028822-b708-4c6c-bb33-931ec085609f,2,Sim,Engenheiro de energia
+6381,0e4cd4b1-06b8-4db0-85ba-d1bd5eaeb15b,04735908-fb28-43ac-9e05-cba861ecb3c7,4,Não,Tecnólogo em desenvolvimento social
+9997,39f967b7-a986-49a7-8f94-e7135dab5738,95a26f69-74f0-4767-8aa0-153ff1c13b97,2,Sim,Barbeiro
+1433,f3863f48-97ca-4e54-870c-0d814f529714,f3406cf8-ba71-452e-87dd-ef078dcb5aad,7,Sim,Engenheiro mecânico
+6915,27f7a986-6d47-4be1-b69e-31e77b61e64e,e5677d44-2343-4afe-a991-62bbab0810fd,8,Não,Roteirista
+7426,f2ebfd87-686e-4df4-bdbe-4d3714c6a668,771b78f0-33dd-42c7-b4be-fe4151434dbe,9,Sim,Roteirista
+3671,2a1b6d00-5fd4-4a7d-bb41-1cfbb3d5044e,44172bf7-3988-42b4-bccc-bc1e45e68e7e,5,Sim,Instrumentador cirúrgico
+2662,7f420551-4f65-4710-ba46-c443e5aa7c31,d19fdbaa-618b-4deb-b68f-c9410bc0b29a,8,Não,Figurinista
+2930,f74162f8-3dc2-419f-9f2a-e24326a2c465,ad0ba210-2fbd-485d-98e5-52195c24dc23,2,Sim,Pedagogo
+1620,497ee3c0-bf99-4226-818a-4464840595e2,7ec30a79-f296-44a1-960f-fb20dca714ca,2,Não,Engenheiro de manufatura
+3381,e71709a7-259f-48fa-b5d7-0f27a73d011f,633ce4f3-d050-41db-9c41-43fce7d37127,6,Não,Controlador de vôo
+4820,95abdd0b-d971-4153-bb75-605babca74d5,863af843-e638-4c0e-881f-5dabbcceb6ae,9,Sim,Inspetor
+2703,3220a8f0-ae61-477f-b189-9a22cd0d1ead,8aa5f91d-62a6-4044-92e6-653dc19ed0de,10,Sim,Armeiro
+4951,5fa1f0fe-a3ee-4a79-b0ef-5c14be4626a1,614f9dc3-8b23-4325-b2fc-4ee770007e9d,6,Não,Meeiro
+7469,c40f0835-d370-4f74-a8b3-80abde9fcd9d,aacaa99f-762f-4d51-aa18-d334c656cc9d,6,Sim,Governanta
+7220,ecd2e85b-a35d-45b9-a703-c6ea1b4b35a7,68da3757-8943-499d-98f1-00463961d295,9,Sim,Endocrinologista
+7343,7a1e18a1-c1ea-49b1-a863-7ca4c4f5231e,d1eb245a-647c-4f3e-83e2-ac3cb83a0a58,2,Não,Metalúrgico
+2144,145bdb98-8638-4e99-9c07-f45d9469650f,f53678c2-11b6-44ab-979b-04b5c3052ed3,9,Não,Embalador
+7359,daca77f1-c0e3-421a-9766-745c799aa74e,1aa6ff9f-092a-4dcc-ba90-39768343055e,10,Não,Costureira
+2834,aee8379b-db78-4070-b008-835067b4f160,4676ea8b-3c84-48aa-853b-b97c02daf782,1,Sim,Tradutor
+6796,bed29e91-7c20-4046-a451-88bd4704c845,774d8ee9-a9ea-4da2-b3bf-93eb722e016b,2,Sim,Tecnólogo em irrigação e drenagem
+9651,7f7e8f85-61da-4a67-9491-459ae1b1f4f7,7403bd6a-9f97-4fa1-8894-8565c4e73864,1,Não,Radioterapêutico
+7817,c72d7ca7-114b-4e1e-8546-88c95ce40a26,9830f2fd-d9c5-4d49-85a2-59fc8941dfc5,2,Sim,Engenheiro de produção agroindustrial
+1944,be13ec40-472b-4116-890e-c6033f1bc8d3,d0d64778-cbf2-4028-834a-f97faccfb0d7,3,Sim,Programador
+4942,f970022c-f086-4a9c-aaf9-02f823c43678,0db80eec-9913-4087-9a7e-b9bef7d2090d,9,Sim,Bancário
+8685,4d36335f-4ce6-487b-98e6-9bbf1ae09f5d,b3df0542-1fce-4290-be66-c251431ee22a,4,Sim,Sonoplasta
+6089,edfdbe12-bf4e-4095-b622-d6d097b7627c,b44a79fc-99b5-47ea-8199-bd52f07935fb,3,Não,Redator
+6402,df2275b5-c190-4828-b86d-2f65f82f1a5a,96419a4b-fb37-4dd1-975c-d0bf712dab7a,9,Sim,Músico
+6236,022e4aa9-9806-489b-aa90-cdc9689899ac,e8be0c20-b02a-4483-8e95-9de8077b04a7,8,Não,Engenheiro cartográfico
