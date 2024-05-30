@@ -1,0 +1,151 @@
+bairro,CEP,cidade,CNPJ,complemento,convenio_id,endereco,estado,ExibirAgendamentoOnline,nome,numero,particular,permite_telemedicina,planos,registro_ans,tipo_validacao
+Goiania,74024-742,Jesus dos Dourados,97.521.634/0001-21,Largo de Duarte,5,Pátio Barros,Sergipe,True,da Conceição,671,True,True,Plano B,fb04a4eb-459e-447a-8e8a-f1db6082a245,Tipo A
+Vila Betânia,21898591,Oliveira do Campo,72.193.458/0001-15,Recanto de Souza,3,"Campo Cunha, 42",Rondônia,True,Moura,418,False,True,Plano C,90876f69-1c31-4c8f-a6cc-fed0a4ff97cf,Tipo C
+Distrito Industrial Do Jatoba,45030-837,Gonçalves,36.701.592/0001-16,Avenida de Azevedo,6,Quadra Pinto,Distrito Federal,True,Cardoso,754,False,True,Plano B,6e042abd-1cae-43aa-8839-4e5398698d64,Tipo A
+Araguaia,63536-689,Moreira,96.532.410/0001-52,Viela de Souza,8,"Loteamento Breno Cardoso, 42",Distrito Federal,False,Nascimento,224,False,False,Plano C,9d5da2d3-e127-49f6-a916-b10c5efa483a,Tipo B
+Vila União,95009665,Souza,10.237.865/0001-20,Residencial de Barros,1,"Chácara da Costa, 13",Alagoas,False,Pinto,674,False,False,Plano A,1b418bbd-e007-43e2-808a-e91efe987f8a,Tipo B
+Vera Cruz,33637409,Cunha de Moura,96.517.832/0001-59,Parque de da Paz,10,"Jardim Campos, 39",Distrito Federal,True,da Luz,256,True,True,Plano A,f1bb1365-d92b-4e47-9eda-d8ff2258bdfc,Tipo B
+São Marcos,71290596,da Mota,82.437.051/0001-40,Condomínio de Freitas,7,"Chácara de da Cruz, 93",São Paulo,False,Duarte Lopes - ME,353,False,True,Plano C,0c84c5f2-f12a-48ff-9c5e-d3078aaa878c,Tipo B
+João Alfredo,75747-267,da Mota,38.610.247/0001-00,Rodovia Cunha,9,"Ladeira Araújo, 4",Bahia,True,Fernandes,497,False,False,Plano B,1255cc2b-f40c-4c6b-b824-593ba6a2672e,Tipo B
+Cruzeiro,28229334,Nogueira Alegre,72.395.406/0001-21,Residencial Almeida,7,"Viela de da Cunha, 90",Paraíba,True,Nunes S.A.,361,True,False,Plano B,9f308d5b-d565-4d5f-a80f-62bea84e565d,Tipo C
+Jardinópolis,64106735,Moura,43.195.280/0001-43,Feira Moreira,1,"Estação de da Cunha, 99",Ceará,False,Barbosa,255,False,False,Plano B,bbd8885d-46ab-4ba5-b339-3772e9789e89,Tipo C
+Santa Monica,70151-992,Lopes de Novaes,37.596.280/0001-52,Estrada de Azevedo,6,"Jardim de da Paz, 23",Paraíba,False,Moreira,49,False,True,Plano B,8a3d3541-457d-4be7-970a-3118627b8d6f,Tipo A
+São Gabriel,23794-750,da Paz,04.392.518/0001-79,Estação Novaes,3,"Conjunto Rezende, 49",Rondônia,False,Cavalcanti - EI,251,False,True,Plano C,9be379ba-28bf-4143-bc81-8837a3669fff,Tipo A
+Vera Cruz,76805-176,Silva,86.205.479/0001-18,Aeroporto Ana Ferreira,9,"Favela de Fernandes, 917",Mato Grosso,True,Pereira Cunha S.A.,476,False,True,Plano A,56dd66d9-92f8-4369-9bec-2c0b6c6c93cc,Tipo C
+Mariquinhas,87265732,Nascimento de Martins,68.412.759/0001-15,Quadra de Moura,6,"Vereda Alícia Lopes, 56",Distrito Federal,False,Teixeira e Filhos,688,False,False,Plano A,2766c0b1-20c2-42d2-835b-a98a2950efd7,Tipo C
+Brasil Industrial,66621-881,da Conceição,69.053.471/0001-64,Setor Davi Lucas Moraes,9,"Residencial Nunes, 38",Pernambuco,False,Rodrigues - ME,163,True,False,Plano A,d346a6e6-ce81-49fb-9d91-bb97dbf6373d,Tipo A
+Cinquentenário,73635-879,Azevedo de Minas,75.492.310/0001-70,Campo Sabrina Rodrigues,3,"Colônia Oliveira, 51",Pernambuco,True,Caldeira,217,True,False,Plano C,dba2e6ae-ebc8-42e2-9610-b1672b771f8a,Tipo B
+Serra Do Curral,43409845,Viana,59.804.321/0001-91,Distrito Eduardo Caldeira,1,"Chácara Larissa Azevedo, 617",Rio de Janeiro,False,Araújo - EI,343,False,False,Plano B,b440413e-9bce-426e-8794-260260026b49,Tipo B
+Vila Nova Cachoeirinha 3ª Seção,62373-217,Silveira dos Dourados,71.853.964/0001-20,Rua Manuela Ramos,4,"Rua de da Costa, 459",Santa Catarina,True,Carvalho,654,False,True,Plano C,53c0b8a1-bfba-46cd-a720-ba3ff949cf52,Tipo A
+Nossa Senhora Da Conceição,37383-796,da Luz,63.780.594/0001-10,Loteamento Antônio Cardoso,9,"Vereda Gabriel Ramos, 368",Bahia,False,Carvalho Fernandes S/A,771,True,False,Plano C,5eaf5208-5210-4b62-aa6f-931643005869,Tipo A
+Vila Novo São Lucas,07791040,da Mota de Barbosa,80.946.127/0001-37,Distrito Rezende,9,"Residencial de Silva, 475",Roraima,True,Gonçalves Ltda.,20,False,False,Plano C,71f86dc4-32a9-499d-8e3c-1106406d9639,Tipo C
+Nossa Senhora Do Rosário,26420-598,Rocha,85.319.674/0001-06,Núcleo de Moraes,5,"Trecho da Paz, 29",Bahia,True,Souza,560,False,False,Plano B,f8f93b09-050e-4801-b825-925b952998ea,Tipo A
+Vila Paraíso,37413989,da Mota do Oeste,89.607.235/0001-50,Praia de da Mota,1,"Morro Melo, 16",Tocantins,False,Lima S/A,233,True,True,Plano A,db85c270-751a-436c-95b5-af488c430211,Tipo B
+Bonsucesso,41393097,Cardoso das Flores,01.895.364/0001-40,Distrito Nascimento,3,"Rodovia de Pires, 567",Paraná,False,Fernandes,152,True,False,Plano A,46a5fa41-5f19-4d29-959f-b064b2b0c60c,Tipo B
+Solar Do Barreiro,57919-044,Ribeiro Grande,16.537.429/0001-52,Ladeira Isabel Sales,1,"Praça Bruna Correia, 2",Minas Gerais,False,Moura S/A,118,True,False,Plano C,2cc1f1d3-8e5e-44f4-91c5-9b3979f7e4ce,Tipo A
+Copacabana,55542-214,Barros,43.685.197/0001-52,Jardim de Peixoto,2,"Largo Esther Fernandes, 3",Pará,False,Cardoso Nascimento e Filhos,862,False,False,Plano B,ffb650a4-3b50-436f-8d61-e8c4760ebac0,Tipo C
+Bacurau,12051-006,Silva de Melo,19.456.027/0001-11,Área Nogueira,4,"Lagoa da Conceição, 92",Rio Grande do Norte,False,Sales,648,False,True,Plano C,7b82ccc3-3a42-40e2-b70b-418bbfef8f2f,Tipo C
+Pirineus,76638-172,Melo de Freitas,31.560.498/0001-70,Setor de Campos,8,"Estrada Gustavo Viana, 41",Distrito Federal,True,Lopes Cardoso S/A,872,True,True,Plano B,fe9eb30c-f343-49da-b274-347175841870,Tipo A
+Marajó,59761038,Cunha,46.581.390/0001-31,Lago de Freitas,2,"Esplanada Ryan Freitas, 13",Rondônia,True,Costa - ME,392,True,True,Plano B,b9b0a8c7-fbcd-4784-a5d9-288c7296069d,Tipo B
+Boa União 1ª Seção,06614224,Martins do Galho,26.980.354/0001-33,Favela Rafael Rocha,9,"Passarela Alves, 57",Maranhão,True,Santos,465,False,True,Plano B,6cc55e53-5f02-4e5e-9f9f-a85d736d1650,Tipo A
+Vila Vista Alegre,07572859,da Mota da Prata,82.396.574/0001-95,Via Campos,10,Viaduto de Oliveira,São Paulo,False,Almeida,750,True,False,Plano B,3d25f3c2-5763-473c-8366-e17f49a1baac,Tipo C
+Vila Nova Cachoeirinha 3ª Seção,48213-255,Pereira de Martins,76.918.423/0001-57,Conjunto de da Paz,9,"Colônia João Pedro da Conceição, 62",Ceará,False,Barbosa Ltda.,657,True,True,Plano A,e4dbd840-54b7-4f93-885f-f8fe981e1aa9,Tipo C
+Vila Ecológica,91749-790,Lima da Prata,91.802.564/0001-01,Estação Monteiro,4,"Trecho Alícia Cardoso, 75",Amazonas,True,Freitas,317,True,False,Plano C,f36e41fa-522b-4f35-ae4c-0791152114ca,Tipo B
+Bonfim,13389-840,Moraes Grande,27.316.405/0001-90,Morro Maria Vitória Santos,3,Setor João Miguel Martins,Rio de Janeiro,False,Cavalcanti,739,False,False,Plano A,1f8e27be-05ac-4baa-a162-9f68248a432c,Tipo C
+Mantiqueira,13024-640,Freitas de Fogaça,17.586.243/0001-56,Vale Cunha,3,"Feira Bernardo Sales, 38",Roraima,False,Santos Rodrigues S/A,358,True,True,Plano B,7734a002-c6c3-4472-82fb-ffb867e3b6e3,Tipo A
+Alto Caiçaras,36081-494,Mendes do Amparo,83.067.195/0001-14,Rodovia de Almeida,6,"Trecho Santos, 3",Rondônia,False,Ribeiro S.A.,132,True,False,Plano C,d620adbe-dded-4631-be36-560c4d6c7918,Tipo A
+Ouro Minas,18694602,Ramos da Serra,84.259.361/0001-47,Viela Alves,7,"Setor Martins, 57",Alagoas,True,Moraes Rodrigues - EI,384,True,True,Plano C,2880a09d-69af-4d65-89a7-288058b9d1cd,Tipo B
+Novo São Lucas,92130738,Moreira,12.365.789/0001-63,Viaduto de Lopes,10,"Lago Pedro Henrique da Cruz, 112",Piauí,False,Moreira,36,True,True,Plano C,f555afd0-b3cc-484d-9566-64833311c802,Tipo A
+Conjunto Floramar,66432391,da Mota,24.376.810/0001-05,Sítio da Rocha,9,"Quadra Lucas Nunes, 81",Mato Grosso,True,Pinto,110,False,False,Plano C,5c72016a-74b9-4e1e-a0ee-bdf7a39ab87d,Tipo A
+Cardoso,05917032,Nunes,18.754.269/0001-29,Loteamento Ana Luiza Gonçalves,5,"Ladeira de Araújo, 77",Mato Grosso,True,Costela,290,True,False,Plano C,02b548b1-5ce1-4904-b934-5b1cef6e1b53,Tipo B
+Bonfim,96564255,da Cruz Paulista,25.019.873/0001-77,Parque Cauã Almeida,6,Praça de Caldeira,Piauí,False,Monteiro,925,False,False,Plano A,880ff74d-4f53-4d4b-87cd-da225acabdb7,Tipo B
+São Francisco Das Chagas,05921-234,Nascimento da Mata,57.041.692/0001-33,Colônia de da Mata,9,"Rodovia Lopes, 790",Pernambuco,False,Sales - EI,757,True,False,Plano A,7ff81ce0-8f1b-4cb6-9cf1-4c43edb566fd,Tipo B
+São Jorge 3ª Seção,54952-549,Monteiro Grande,15.096.824/0001-84,Trecho Fernandes,9,"Travessa Mendes, 3",Rio Grande do Norte,True,Costela das Neves S/A,553,True,False,Plano A,dcc77981-70fd-41b8-84ff-19dd8642451b,Tipo C
+Barão Homem De Melo 2ª Seção,14709-023,Aragão das Pedras,90.278.634/0001-01,Recanto de Gomes,7,"Estrada de Castro, 51",Maranhão,True,Farias Ribeiro - ME,923,False,False,Plano B,8868d67b-3290-4c9e-8ecb-b2eaf6c67440,Tipo C
+Novo Glória,75848853,Cardoso,03.468.971/0001-59,Quadra de das Neves,6,"Pátio Davi Lucca Cardoso, 8",Piauí,True,da Rocha,733,True,True,Plano A,8d72c3ba-31f5-4497-9061-6ef42edd491a,Tipo B
+Apolonia,30545337,Nunes de da Luz,29.315.047/0001-26,Feira de das Neves,2,"Avenida de Moraes, 23",Alagoas,True,da Conceição S/A,699,False,True,Plano C,4c3787aa-8941-492c-9662-97f2f399f221,Tipo B
+Sion,73348-082,Mendes,93.167.805/0001-05,Via da Luz,6,"Distrito Ryan Fernandes, 53",Rio Grande do Sul,False,Pires Freitas e Filhos,26,True,True,Plano B,77f1d78a-582a-42eb-9d40-5a9c2a467ee3,Tipo B
+Marieta 3ª Seção,04568-798,Silva,85.970.432/0001-88,Aeroporto de Viana,4,"Loteamento Costela, 86",Mato Grosso,True,Souza,678,True,False,Plano C,db95214a-2389-4c92-8ddd-477ea6b7daaf,Tipo B
+Santa Inês,80101158,Campos do Amparo,64.729.053/0001-20,Núcleo Luiz Otávio Teixeira,2,"Aeroporto Rocha, 824",Goiás,True,da Costa,882,False,True,Plano C,fdc52638-e8c0-49a3-befa-1f220f5bdcf3,Tipo A
+Coqueiros,96093-011,Caldeira,84.105.269/0001-22,Esplanada Ribeiro,7,Chácara Maria Sophia Duarte,Espírito Santo,True,da Mota,441,True,False,Plano A,c8e5ce1c-7572-43d5-8dc6-631508ebcbb7,Tipo A
+Betânia,25114-835,da Cunha,19.347.085/0001-07,Jardim Maria Cecília da Rosa,6,"Conjunto de Dias, 79",Amazonas,False,Santos Fogaça - ME,49,False,False,Plano C,ba9492c1-75f4-413b-96b5-2c3bc44f6eab,Tipo A
+Esplanada,15061-129,Barros de Vieira,65.712.894/0001-98,Praia Kaique das Neves,6,"Quadra de Farias, 3",Ceará,True,Rodrigues Araújo - EI,179,False,True,Plano B,68203981-ab29-4e95-b859-16a01a07eb1d,Tipo C
+Caetano Furquim,86217-118,Cunha de Martins,78.195.064/0001-82,Praça Rodrigues,9,Alameda de da Mota,Distrito Federal,False,Aragão da Rosa - ME,32,True,False,Plano C,693ea9fc-d21f-4a19-b9ae-234afe389832,Tipo A
+Jardim Vitoria,61767-760,da Luz,71.230.698/0001-80,Chácara Camila Pereira,5,"Parque da Cunha, 26",Alagoas,False,Correia Ferreira Ltda.,76,True,True,Plano C,2d3a961e-d389-4d74-8550-7decec789202,Tipo A
+Santa Amelia,94231-794,Ribeiro Alegre,78.932.560/0001-71,Recanto Rafael Castro,9,"Vereda de Gonçalves, 1",Pará,True,Santos - EI,591,False,False,Plano B,3fce7a32-6541-481a-9d92-0d11e59d04bc,Tipo B
+Canadá,67798-262,Costela de Jesus,48.560.912/0001-44,Avenida de da Rosa,7,"Quadra Ribeiro, 3",Rio de Janeiro,False,Cavalcanti - EI,273,True,True,Plano C,165fcd36-044d-437b-abff-47d1a2aac257,Tipo C
+Tres Marias,18471401,Viana,20.679.584/0001-80,Passarela de Pinto,7,"Pátio Maria Eduarda da Costa, 90",Rio de Janeiro,False,Almeida S.A.,832,False,True,Plano B,fb9271c3-bff0-4fba-83d7-9f0d97ebec88,Tipo B
+Casa Branca,55643-433,Porto,95.218.076/0001-02,Chácara de Cardoso,4,"Viela de Novaes, 935",Maranhão,False,Barbosa,500,False,False,Plano B,b940f8e1-76fe-4a52-9233-cff71f2a0fd5,Tipo B
+Vila Independencia 2ª Seção,07775661,Moura,43.905.216/0001-09,Praça Silveira,9,"Alameda de da Mata, 3",Tocantins,False,das Neves,377,True,False,Plano C,e446a42e-add5-432d-9aa8-f21ee4e86ef0,Tipo C
+Granja Werneck,70569404,Lopes,23.970.456/0001-80,Estação Mendes,7,"Vale Marcela Correia, 23",Rio Grande do Sul,True,Campos,583,False,True,Plano B,5e70cbde-60ba-41c4-8a17-c443b924e7df,Tipo B
+Vila Jardim Alvorada,82861946,da Mota de Martins,62.504.389/0001-60,Lagoa de Carvalho,4,"Quadra de Novaes, 58",Rondônia,False,Alves Cardoso Ltda.,565,True,False,Plano C,59e9899f-aeb7-44df-b6b2-1c6f1a101385,Tipo A
+Novo Aarão Reis,79344558,da Cunha de Alves,47.051.836/0001-89,Via Arthur Campos,8,"Vila de da Luz, 646",Mato Grosso do Sul,True,Cavalcanti Sales Ltda.,142,False,True,Plano A,35271cf0-9f9f-43f8-9d01-54ba6418a2d8,Tipo C
+Monte Azul,16488800,Freitas do Norte,76.405.831/0001-05,Jardim Nicolas Ribeiro,6,Trecho Mirella Pereira,Pará,True,da Costa,74,False,False,Plano B,1f3a8430-22e5-4199-9151-caa87bddbe97,Tipo C
+Jatobá,98954-144,Oliveira,54.906.132/0001-06,Estrada Lucas Silva,5,"Residencial Freitas, 5",Mato Grosso do Sul,True,Campos Ltda.,570,True,True,Plano A,b7f4ce2b-1112-4e4f-b3e6-04607785f1fc,Tipo A
+Marmiteiros,04078745,Cardoso das Pedras,14.083.652/0001-41,Trevo Cunha,6,"Morro de Pinto, 32",Alagoas,False,Pires Costela e Filhos,209,False,False,Plano A,c4ebdb21-9422-408b-b6b2-b78484688c1d,Tipo C
+Conjunto Capitão Eduardo,90716042,Almeida,94.320.851/0001-65,Jardim Fogaça,2,"Campo de Nogueira, 2",Paraná,True,Ribeiro,846,False,True,Plano B,cdb3ec9f-ce65-44c7-a465-184e5b0725fb,Tipo A
+Vila Pilar,98404098,Freitas,60.823.175/0001-20,Rua Pereira,7,"Vale Pinto, 80",Rio Grande do Norte,True,Gonçalves Ltda.,658,True,False,Plano A,d48d355d-03ca-4ace-9800-4577fb73e703,Tipo B
+Caiçara - Adelaide,40762-333,Souza do Galho,14.398.567/0001-72,Conjunto de Nunes,7,"Jardim da Luz, 75",Mato Grosso do Sul,True,Cardoso,635,False,True,Plano A,ebc13635-4a69-4bf4-903f-0d6e7b520e6d,Tipo B
+Marieta 3ª Seção,87276765,Moura do Norte,26.719.345/0001-93,Recanto Caldeira,6,"Área Fernandes, 28",Rio de Janeiro,False,Rodrigues das Neves S.A.,401,True,False,Plano A,4542be8c-6068-4177-bc82-00f0fb6512ab,Tipo B
+Venda Nova,07958387,da Conceição dos Dourados,21.863.097/0001-36,Travessa de Farias,10,"Chácara de Alves, 859",Espírito Santo,False,Campos Jesus S/A,244,False,True,Plano C,508e43e5-e1f9-49f6-976a-b4bbc94ff596,Tipo B
+Vila São Rafael,93046-093,Pinto do Amparo,87.634.510/0001-07,Condomínio Ana da Cruz,5,"Feira Sarah Oliveira, 39",Rio de Janeiro,False,Pinto S/A,610,True,False,Plano A,0d9af08c-1c81-439e-b3f7-e5787fc40581,Tipo A
+Conjunto Celso Machado,32596-568,da Cunha,87.903.615/0001-06,Núcleo das Neves,1,"Travessa de Melo, 74",Rondônia,False,da Mata S.A.,791,True,False,Plano B,54701246-642e-4136-8e42-27cfd5941136,Tipo B
+Estrela Do Oriente,83766-490,da Rocha,67.418.039/0001-02,Praia de Azevedo,8,"Conjunto Mendes, 4",Maranhão,False,da Luz - ME,505,True,True,Plano B,ffc656c6-0d47-409a-80d3-d619ecfd46f1,Tipo B
+Leonina,74450-181,Porto,85.743.962/0001-93,Estrada de Rocha,6,"Via Campos, 20",Bahia,False,Silva,557,False,False,Plano B,2036d872-5a90-492e-b9b4-21428e39a116,Tipo A
+Santa Cruz,41985-775,Rezende,90.312.576/0001-87,Rodovia Camila Cardoso,2,"Área Moreira, 6",Maranhão,True,Rezende da Paz Ltda.,923,True,False,Plano A,cbd4d3d6-ab25-4c53-bc63-14f30612ccc5,Tipo C
+Cinquentenário,19329544,Fernandes,26.534.810/0001-11,Lago Araújo,9,"Sítio Alves, 271",Maranhão,True,Farias,920,True,False,Plano C,e9f1c7f4-c736-4fa3-8899-6415d86795ff,Tipo A
+Pindorama,94006562,Vieira do Campo,05.129.876/0001-56,Viaduto da Rocha,6,"Sítio de Viana, 43",Maranhão,True,Araújo S/A,840,True,False,Plano C,0d56e70a-6b43-4b0a-8982-31f35eb488a6,Tipo B
+Conjunto Santa Maria,59113886,Costa,03.645.972/0001-21,Feira Martins,8,"Conjunto Correia, 3",Sergipe,False,Rocha,908,False,False,Plano C,bd5c90df-4a92-4224-87db-d0045a2a951c,Tipo A
+Buraco Quente,57798493,Silva,60.159.387/0001-55,Pátio Bárbara Sales,7,Travessa Letícia Novaes,Espírito Santo,True,Novaes,573,True,True,Plano A,8917ad94-fd93-484e-8b7c-7b44dded25a4,Tipo C
+Vitoria Da Conquista,51380802,Dias de Goiás,97.405.861/0001-91,Setor Yago Rodrigues,3,"Alameda André Nunes, 684",Santa Catarina,False,Pereira,208,True,False,Plano A,a0839cfe-ab12-4f3f-99d5-a6c0068dce24,Tipo C
+Vila São Gabriel,47415749,Carvalho de Pereira,04.153.726/0001-15,Vale Thomas Viana,2,Campo Noah Viana,São Paulo,False,Porto - EI,342,True,False,Plano A,1538096a-f485-4abd-9825-35d0b0234d64,Tipo B
+Saudade,62774-634,Pires,65.719.038/0001-64,Morro Silva,8,"Vila Almeida, 77",Espírito Santo,True,Rodrigues S.A.,392,False,False,Plano A,4981493d-28a5-40a1-849d-6b8519abbc4d,Tipo B
+Vila Aeroporto,94852463,Cunha,32.156.978/0001-33,Praia de da Rosa,9,"Travessa de Farias, 16",Sergipe,False,Correia - ME,548,False,True,Plano B,4be4df09-cc1b-44ab-88d3-b264f8d6da17,Tipo A
+Concórdia,49615-854,Cardoso,23.064.718/0001-47,Estrada Santos,8,"Vale Giovanna Rezende, 42",Rondônia,False,Pinto,945,True,False,Plano A,16e68270-7c09-47da-b409-2913ce922f34,Tipo A
+Alpes,06488-768,Martins de Azevedo,28.059.674/0001-80,Trecho Enzo Gabriel Fogaça,1,"Favela de Sales, 62",Maranhão,True,Ferreira - ME,272,False,True,Plano B,6ee4821a-8bd3-424a-ad95-2fc98371ac20,Tipo C
+Araguaia,26135-188,da Luz da Mata,60.479.218/0001-00,Ladeira Gabrielly Araújo,7,"Condomínio da Luz, 172",São Paulo,False,Pinto,156,True,True,Plano B,2175eb8c-91db-4a69-97d2-465b097e71d1,Tipo C
+Vila Santa Monica 1ª Seção,36505-351,Rodrigues,38.576.492/0001-30,Colônia Araújo,9,"Estrada de Nunes, 11",Santa Catarina,False,Costa Rocha - ME,950,True,False,Plano B,01c9f814-5912-4dad-89e0-206b7f6b68c8,Tipo A
+Vila Santa Monica 1ª Seção,22145047,Rodrigues,10.624.739/0001-28,Pátio Vitor da Rosa,1,"Rua de Barros, 520",Mato Grosso do Sul,False,da Cunha - EI,24,False,True,Plano A,1a72865e-3095-4faf-bb41-7d748add3289,Tipo C
+Jaraguá,30303744,Cunha do Norte,39.074.168/0001-87,Chácara de da Mata,7,"Conjunto de da Rocha, 2",Minas Gerais,False,da Costa,437,True,True,Plano B,143ee416-1c1a-459d-ae54-9a690f4c95e6,Tipo B
+Barão Homem De Melo 3ª Seção,30955-586,Castro das Flores,42.695.130/0001-36,Avenida de da Cunha,5,"Residencial Diego da Paz, 94",Tocantins,False,Silva,850,True,True,Plano A,a7d03e27-ae9f-4c99-81a3-925a6927b746,Tipo A
+Vista Alegre,57249-052,Sales,90.342.516/0001-07,Trecho Freitas,9,"Rua Costa, 58",Amapá,True,Lima - EI,124,True,True,Plano B,fb053bf0-db1f-4ce8-a6dc-371edf27205c,Tipo C
+Novo Ouro Preto,29306437,Jesus de Freitas,94.178.265/0001-28,Esplanada Sophie da Cunha,4,"Lagoa de Monteiro, 602",Rio de Janeiro,False,Santos - ME,989,True,True,Plano B,1e512129-7152-45d1-bbd8-44854fdb2842,Tipo C
+Distrito Industrial Do Jatoba,79826679,Oliveira das Flores,75.316.928/0001-89,Pátio de Rezende,10,"Condomínio Mendes, 24",Amazonas,True,da Rosa,457,True,True,Plano C,169e0fcb-6a61-449b-b551-eed8519b7a2c,Tipo B
+Vila Independencia 3ª Seção,96125-250,Castro Alegre,64.893.150/0001-54,Via de da Conceição,2,"Pátio de Almeida, 67",Amazonas,False,Fernandes,78,True,False,Plano B,adf87c1c-f54c-4b46-bbfc-19ae41cbf44b,Tipo B
+Conjunto Califórnia Ii,35847-252,da Mota do Norte,89.132.704/0001-21,Núcleo Eduardo Jesus,8,"Rodovia Peixoto, 16",Paraná,False,Costa,912,True,False,Plano C,37060514-d49d-4b9f-b044-41c3fc533af5,Tipo B
+Taquaril,25529194,Alves do Oeste,09.516.847/0001-06,Conjunto de Costela,7,"Feira Camila da Rocha, 77",Pará,False,Cardoso,140,False,False,Plano A,8adfb319-f692-4bc6-8c74-efdcbe6d5120,Tipo A
+Vila Piratininga,82238294,Caldeira,48.695.037/0001-08,Alameda Matheus Castro,9,"Avenida de Costa, 80",São Paulo,False,Pinto,833,False,True,Plano B,88638f38-d821-4b1d-ae6b-16183980593a,Tipo B
+Alpes,59194-288,Costa,69.250.783/0001-68,Recanto Ferreira,8,"Distrito Cunha, 831",São Paulo,True,Melo,49,True,False,Plano C,92857bb8-db42-4679-afad-8b19be7bd7d3,Tipo A
+Vila Bandeirantes,62802-102,Sales,03.215.984/0001-16,Conjunto da Paz,1,"Largo Luiza Cunha, 784",Goiás,True,Aragão S/A,168,False,True,Plano C,a4ee67ee-d9a4-49bf-9d93-117dbc472ab8,Tipo C
+Pompéia,49512689,da Mota de da Mota,64.982.357/0001-03,Praia Pereira,4,"Favela Castro, 2",Paraíba,False,Pinto,833,True,False,Plano A,a0a0f7c0-0635-4d56-9aed-f1364a5e1a77,Tipo B
+Cônego Pinheiro 1ª Seção,08778-361,da Rosa,08.953.472/0001-70,Conjunto de Araújo,9,"Vale de da Luz, 132",Goiás,True,Martins Ltda.,529,False,False,Plano C,f35e62de-781d-41ce-b7ab-be3ffbce85ab,Tipo B
+Vila Jardim São José,86791-780,Rocha,47.013.892/0001-29,Praia da Mata,7,"Lago Danilo Moraes, 63",Goiás,False,Duarte,601,True,True,Plano C,62fc41f8-f25c-487c-a619-9b6ff3249fd9,Tipo C
+Conjunto Lagoa,60223-564,Sales de Minas,36.741.059/0001-88,Trevo Pietra Moreira,3,"Chácara das Neves, 68",Paraíba,False,Nunes,681,True,True,Plano C,c23818ef-de4a-44c2-b46b-9508376b84e6,Tipo B
+Santa Sofia,84803729,Sales de Goiás,31.290.675/0001-46,Praia de Farias,8,"Rua Vitor Gabriel Almeida, 74",Distrito Federal,True,Cardoso Dias - ME,954,False,False,Plano C,d5117c29-2713-4640-90f5-bf0a9abb4db5,Tipo A
+Alta Tensão 1ª Seção,32359491,Aragão,07.268.953/0001-84,Feira Moreira,10,"Recanto Sophie Moura, 1",Rio Grande do Sul,False,Nunes e Filhos,397,False,True,Plano A,a6494c3d-f203-4a0f-8c1e-d4af1e8a3967,Tipo A
+Pousada Santo Antonio,70851187,Moura,81.259.764/0001-06,Estrada de Sales,8,"Lagoa de Ferreira, 9",Minas Gerais,True,Rocha,646,False,True,Plano C,d97e1900-9e43-4280-8f09-f2dd68c16a47,Tipo B
+Vila Batik,74029497,Ramos,75.348.962/0001-35,Vereda de Cardoso,4,"Condomínio Isaac Nascimento, 53",São Paulo,True,Alves Ltda.,832,True,True,Plano B,0c4f012a-b1b0-4c89-ae8f-aefac735b011,Tipo A
+Sagrada Família,03163-284,Santos do Sul,35.892.740/0001-64,Quadra Alves,5,"Lagoa Teixeira, 7",Tocantins,False,Pereira,611,False,True,Plano A,badc0c65-2de4-47bb-a431-93e26704b746,Tipo A
+Cidade Jardim Taquaril,00354-655,Duarte,91.743.602/0001-94,Distrito Gustavo Henrique Mendes,10,"Rua Luiz Otávio Rezende, 8",Alagoas,False,Alves,172,False,True,Plano C,6e1caca0-0d2c-4ad4-aafb-85727eb1782f,Tipo C
+Antonio Ribeiro De Abreu 1ª Seção,92563-117,Silva,04.198.763/0001-40,Aeroporto Santos,8,"Alameda Freitas, 63",São Paulo,False,da Rosa Mendes S.A.,950,False,False,Plano C,61ae5caf-5c93-463c-9d3c-fcd29117bfd1,Tipo B
+Conjunto Providencia,68887-871,Cunha Alegre,30.529.816/0001-78,Trevo de Castro,3,"Colônia de Pereira, 89",Paraíba,True,Carvalho Barros - ME,339,False,False,Plano C,0ff634f2-3b4c-415f-882c-95d993bd2667,Tipo C
+Vila Cloris,36357-234,da Rosa,61.892.705/0001-55,Praça de Almeida,7,"Campo Souza, 23",Maranhão,True,Alves Moura Ltda.,39,True,False,Plano A,7ffc6d74-cf50-492f-ab42-287c93723f06,Tipo B
+Conjunto Minas Caixa,38356-877,Santos de Duarte,29.587.046/0001-30,Parque Santos,4,"Setor de Oliveira, 228",Mato Grosso,False,Peixoto,633,True,True,Plano C,cb000ffc-2503-4046-bfb2-2571289fedbc,Tipo B
+Vila Mantiqueira,24599-249,Farias,16.489.203/0001-23,Distrito Clarice Ferreira,1,"Trecho Yago Moura, 70",Paraíba,False,Martins - EI,999,True,False,Plano B,2ad1bcfe-9325-4c03-85c9-a4bd86db56e2,Tipo A
+Conjunto Serra Verde,61129655,Ribeiro da Praia,50.986.372/0001-07,Campo da Mota,8,"Favela Alícia Correia, 53",Mato Grosso,True,da Paz S.A.,219,False,False,Plano B,0499b740-c842-4716-ab57-2c5701bde49e,Tipo C
+Vila Nova Paraíso,40940398,Porto das Flores,87.012.965/0001-82,Vereda de Ferreira,4,"Aeroporto Freitas, 64",Rio Grande do Sul,False,Teixeira,989,False,False,Plano C,bbbabdcf-8bbb-43f0-af74-36591c7c959a,Tipo C
+Maria Goretti,14374368,Rezende,60.349.127/0001-42,Esplanada de Mendes,5,"Avenida Mirella Nunes, 77",Rio Grande do Sul,True,Freitas,670,True,False,Plano B,402a02a4-d5f0-4b03-a6c3-c06856ae3760,Tipo C
+Gameleira,25450727,Rodrigues,75.928.063/0001-01,Trecho de Aragão,4,"Ladeira de da Mata, 56",Santa Catarina,True,Cardoso,788,True,True,Plano C,e3467f3e-7429-485b-b890-fe8f216b9277,Tipo C
+Novo Das Industrias,57830972,Martins dos Dourados,49.760.153/0001-26,Aeroporto Pinto,6,"Rua de Ramos, 88",Distrito Federal,False,Castro Teixeira - EI,761,False,False,Plano C,34af669d-f99a-4e4c-973b-5cf71142f1c0,Tipo C
+Vila Novo São Lucas,59049-459,Moreira,85.026.134/0001-34,Distrito Bruno Viana,3,"Conjunto de Almeida, 62",Piauí,True,da Mota,132,False,False,Plano B,50ddb987-2564-4e7c-ba55-527c73792c94,Tipo A
+Mariano De Abreu,14414314,Santos do Campo,38.560.247/0001-35,Viaduto Barros,1,Travessa Nogueira,São Paulo,True,Nogueira,756,False,False,Plano B,9a173832-a6f4-4427-ad6d-2a970e6446cc,Tipo A
+Santa Rita De Cássia,51480-617,Freitas,26.974.015/0001-44,Estação Barros,4,"Área Rocha, 4",Mato Grosso,False,da Rosa,546,True,False,Plano B,00539184-3830-42dc-ac1e-993c24968ceb,Tipo C
+Bom Jesus,00685970,Silveira,02.458.136/0001-75,Vila de Cunha,1,"Jardim de Silva, 5",Maranhão,False,Carvalho Cavalcanti - ME,171,True,True,Plano B,5ea6e266-8b7d-4a99-b38e-51bcd67e2583,Tipo C
+Vila São Rafael,59141522,Sales,79.601.824/0001-77,Esplanada Valentina da Luz,10,"Praia de Novaes, 59",Paraíba,False,Martins,112,True,True,Plano C,742853d7-fdc4-4c62-9658-bc4ea1ffabeb,Tipo A
+Embaúbas,91751-448,Cavalcanti,16.854.037/0001-17,Sítio de Fogaça,8,Residencial de Fernandes,Mato Grosso,True,Barros Melo S.A.,40,False,True,Plano C,0b581ad8-598d-410a-a07a-d8b8743a2bfa,Tipo B
+Prado,56396852,Azevedo do Campo,45.370.196/0001-44,Jardim Isis Caldeira,8,"Aeroporto Rodrigues, 48",Pernambuco,False,Vieira - EI,182,True,False,Plano C,e7d1c30a-d201-4bb1-aa8a-18301519ea82,Tipo C
+Atila De Paiva,08369415,Mendes,39.461.025/0001-28,Via Juliana das Neves,8,Praia de Cavalcanti,Sergipe,True,Monteiro - ME,736,True,True,Plano C,81791fa1-7379-4511-94da-54c0b5d7f08c,Tipo C
+Conjunto Bonsucesso,45959332,Gomes,89.536.270/0001-25,Campo de Peixoto,9,"Viaduto Cunha, 71",Ceará,True,da Mota - EI,848,False,False,Plano B,b19e0bf5-fcac-4b70-941f-9e715821a088,Tipo C
+São João,98620010,Porto de Goiás,08.615.237/0001-99,Núcleo de Castro,5,"Pátio de Vieira, 41",Rio Grande do Norte,True,da Mata,902,False,False,Plano A,30125bb2-451f-490d-9b28-009848e01de6,Tipo C
+Vila Cemig,65245-778,Nunes do Galho,06.125.489/0001-04,Rodovia Moura,6,"Estação Rocha, 48",Roraima,True,da Paz S.A.,761,False,True,Plano B,5d8432af-efee-4d65-b3f1-f237b0d0050e,Tipo B
+Alta Tensão 1ª Seção,49257-419,Araújo Paulista,16.287.930/0001-08,Praça Viana,9,"Quadra Levi Martins, 76",Bahia,True,Correia S/A,421,False,True,Plano A,5950ad5b-f39a-4f98-8696-d5aa031621d7,Tipo A
+Santo Agostinho,22845-311,Cavalcanti de Freitas,14.673.520/0001-70,Quadra Bruno Azevedo,3,"Via Igor Rodrigues, 26",Santa Catarina,False,Carvalho Duarte S/A,350,False,True,Plano B,b3b80059-ada2-47da-86c3-127deb50e847,Tipo C
+Vila Nova Gameleira 3ª Seção,86016467,da Mota,01.975.682/0001-10,Ladeira Moraes,9,"Campo de da Rosa, 42",Amapá,False,da Costa,609,True,True,Plano B,5630d0f1-5e1c-42d3-84de-0a4bdadbd9ad,Tipo A
+João Pinheiro,04693-981,Sales das Flores,80.149.725/0001-85,Rodovia Bianca Cavalcanti,8,"Viaduto Azevedo, 5",Rondônia,False,Freitas Pires e Filhos,571,False,True,Plano B,c62a2bb0-6b62-4827-baf4-ed33536a3d0a,Tipo A
+Nova America,57081195,Rocha,31.497.025/0001-76,Aeroporto Ana Barbosa,1,"Avenida de da Rosa, 37",Espírito Santo,False,da Mata da Rosa S/A,932,False,False,Plano C,a1ca96ab-0602-47bb-9c3c-7057b42ed410,Tipo B
+Primeiro De Maio,13839133,Ferreira,24.859.370/0001-47,Largo Alice Costa,4,Praça Benício Correia,São Paulo,False,Barros e Filhos,843,True,False,Plano C,069b38ee-17b7-4fdd-82ab-8700dd27c5d0,Tipo A
+Marieta 2ª Seção,11362796,Aragão,63.081.729/0001-50,Núcleo Silva,1,"Feira Almeida, 7",Sergipe,False,da Rocha da Cunha S.A.,783,True,True,Plano C,fff4671c-9574-42fe-8958-c5ef5b693351,Tipo A
+Ouro Minas,38118344,Rezende,26.518.947/0001-82,Rodovia de Aragão,4,"Jardim Costa, 42",Tocantins,False,Lopes,440,True,True,Plano B,736494ff-cc30-49e0-8bac-4319d0a59882,Tipo C
+São Vicente,96820298,Moreira,45.628.730/0001-70,Quadra de da Rocha,1,"Distrito Heloísa Costa, 455",Ceará,True,da Costa Carvalho - ME,645,False,True,Plano A,23a1f7a0-dd45-4022-8636-fe6c53bec98e,Tipo B
+Vila Inestan,26891-430,Monteiro,14.607.259/0001-00,Quadra de da Mota,7,Esplanada Carvalho,Ceará,True,Ribeiro Cunha Ltda.,809,True,False,Plano A,ec729717-8da2-41d6-9235-f4b709aca1a0,Tipo B
+Vila Nova,03527-331,da Rosa,65.289.413/0001-83,Condomínio de Nascimento,9,"Núcleo da Cunha, 86",Paraíba,False,Cavalcanti,61,True,True,Plano C,7e39ea29-8b2f-4399-8b94-dfd4fbc81cbc,Tipo C
+São Jorge 3ª Seção,62074-719,Cardoso das Flores,04.871.263/0001-27,Campo Freitas,3,"Vila Rodrigo Moreira, 55",Tocantins,False,Teixeira Vieira - ME,947,False,True,Plano B,38bd281d-fb4b-469f-8f3e-050d28108951,Tipo C
+Campo Alegre,09239-771,da Rocha,45.713.826/0001-36,Praia Miguel da Mota,7,"Travessa Davi Luiz Dias, 91",Rio Grande do Norte,True,Barbosa Pinto Ltda.,585,False,False,Plano A,4e1575a7-d4a1-4a61-b019-0039e38d1609,Tipo B
+Horto Florestal,72633161,Souza,93.024.561/0001-01,Lago de da Conceição,10,"Trecho Juliana Araújo, 2",Pará,True,Pires,559,False,True,Plano A,b3808700-6fc9-47c5-a0c2-701fcb40f97d,Tipo C
+Itatiaia,42279183,Vieira,50.794.812/0001-24,Passarela de Dias,2,"Alameda de Lima, 698",Rio Grande do Norte,False,Dias Melo S.A.,611,False,True,Plano A,3cc231dd-6b72-4199-8650-c0f06a50f861,Tipo C
+Vila Santo Antônio Barroquinha,64601005,Carvalho das Pedras,63.904.521/0001-93,Área Júlia da Cruz,3,"Via Lucas Cavalcanti, 19",Mato Grosso,True,Gonçalves,442,False,False,Plano C,072877f9-2377-45eb-879b-61b859fd32a7,Tipo A
+Serra,42930-119,Peixoto,19.730.285/0001-44,Travessa Bryan Viana,3,Trevo Porto,Mato Grosso,True,Nascimento,938,False,True,Plano B,df3e8c8a-8021-435a-8013-ab0c57b6c434,Tipo B
+Nova America,77399021,Rocha,17.508.239/0001-70,Recanto Barros,8,"Recanto de Rezende, 65",Roraima,True,Rocha Correia - ME,963,True,False,Plano B,0d3fab3a-9dc8-4f84-abde-f7f641166cd6,Tipo B
+Engenho Nogueira,74118884,Nogueira do Norte,57.391.860/0001-10,Viaduto Sales,6,Vale Sabrina Azevedo,Roraima,False,da Cunha,862,False,True,Plano C,b44cd091-e569-4552-b852-2cd26ebf397e,Tipo C
+Vila São Paulo,94125597,Santos,26.831.745/0001-96,Residencial de Teixeira,6,"Lagoa de Vieira, 67",Alagoas,False,Almeida e Filhos,654,False,False,Plano C,75c158e5-3fc4-48e1-9c42-268fb41944cc,Tipo B
+Vila Madre Gertrudes 3ª Seção,99636576,Teixeira de Lopes,19.237.458/0001-97,Vila de da Conceição,6,"Estação Leonardo Cardoso, 70",Rio Grande do Norte,False,Ferreira S/A,66,True,True,Plano A,ce9dc4ad-5d04-4539-8d82-bbf47f23888a,Tipo A

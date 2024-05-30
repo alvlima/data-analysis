@@ -1,0 +1,151 @@
+codigo,convenio_id,dias_retorno,especialidade_id,grupo_procedimento,indicacao_clinica,nao_necessita_agendamento,nome,opcoes_agendamento,permite_agendamento_online,permite_pagamento_online,preparo,procedimento_id,tabela_id,telemedicina,tempo,tipo_procedimento,valor
+8516,4,15,7,Grupo C,Quam ducimus sunt.,True,Ipsum doloremque.,Opção A,False,False,Debitis expedita occaecati ullam soluta debitis.,3e6e36bd-f14f-408e-b5a8-b0e8857ba245,8,False,84,Tipo A,439.01229774895
+2482,10,9,1,Grupo A,Quod nemo delectus.,True,Quos ipsum totam at.,Opção B,True,False,Id optio quibusdam.,d3dc5166-745c-41b4-90f2-09e8d9194de9,7,False,46,Tipo B,234.00255886008605
+9664,6,19,5,Grupo C,Tenetur commodi.,False,Qui temporibus et a.,Opção B,False,True,Pariatur commodi mollitia explicabo temporibus.,6f7577c7-1a05-44e3-b1e2-081bbae6749b,2,True,50,Tipo C,349.42434664111113
+2120,8,16,1,Grupo A,Repellendus esse.,False,Non maiores tenetur.,Opção B,False,False,Vitae aliquam ex delectus nostrum.,e00b6a0c-681b-4356-86c6-907d0150e0c1,10,True,30,Tipo A,447.88475382418534
+3116,3,6,8,Grupo A,Labore sequi.,False,Praesentium quaerat.,Opção B,True,False,Repudiandae totam mollitia modi iusto autem.,b842f43e-2663-4636-99ea-b15481ee3b7a,7,False,43,Tipo B,293.4038571771646
+7254,8,4,5,Grupo C,Accusantium placeat.,False,Cum quos est.,Opção B,True,True,Illo necessitatibus quasi. Harum illo odio a.,1bbb72c1-8523-4b21-82b9-7c57e3079f26,9,False,58,Tipo B,235.24800858700414
+8758,1,2,4,Grupo A,Ratione corrupti.,True,Facere dolorum.,Opção B,False,False,Laboriosam dolores tempore aliquid.,3e23974e-a8d5-472b-99c3-df51596112f7,7,False,84,Tipo B,428.3887467054747
+1225,6,29,3,Grupo C,Non numquam aliquam.,False,Reprehenderit.,Opção C,False,False,Quas numquam vel asperiores.,c88b1dac-6b13-4a2a-9a5f-5c97a2f2e432,10,False,89,Tipo A,53.42731165673194
+1958,6,11,4,Grupo C,Temporibus dolor.,False,Totam aliquid.,Opção B,False,True,Voluptate minus fugit accusamus magnam.,8f94a38f-d8b5-4be1-91a6-abad8d527007,6,True,36,Tipo B,129.64754781088175
+6884,4,25,1,Grupo B,Molestias voluptas.,True,Sint possimus modi.,Opção B,True,False,Qui illum tenetur fugiat quibusdam maiores quas.,2c5a2272-1281-425f-b342-8bbdab5668d0,8,True,87,Tipo C,403.09793930135817
+8072,5,24,6,Grupo A,Assumenda incidunt.,True,Dolorem deserunt.,Opção A,True,True,Iste veniam in aperiam officiis.,2e3a4cba-02c4-4d19-9364-f1d3b5e15099,7,True,43,Tipo A,236.09788387163826
+7286,2,2,4,Grupo B,Cum iure unde.,True,Totam cupiditate.,Opção B,False,True,Possimus ullam saepe quos id consequatur.,562d08d6-0f18-448b-ae64-aa381078ba18,10,True,112,Tipo C,163.67067107361345
+1271,6,8,9,Grupo C,Sapiente natus.,False,Quidem commodi ex.,Opção B,True,False,Placeat nulla possimus quas qui rerum.,5ba3b247-dd90-434e-baa4-4724690cc934,2,True,88,Tipo A,290.7463385629054
+9823,4,28,1,Grupo A,Pariatur ullam ea.,False,Facere laudantium.,Opção C,True,False,Amet tenetur magnam dolorem harum.,714284ee-1979-4786-b609-b3321de0aa14,9,False,113,Tipo A,374.67148421362737
+7198,3,2,5,Grupo C,Dolor quis dolores.,True,Consectetur harum.,Opção B,False,False,Quam delectus voluptatum iste expedita expedita.,0233a5fb-8a4c-4327-8221-a813e5f2e14b,4,False,29,Tipo A,95.35375610688595
+7945,8,29,4,Grupo B,Nesciunt fugit sit.,False,Unde itaque.,Opção B,False,False,Dolore aliquid deserunt perferendis.,d4ad3f73-286b-49d1-858f-a0df23b00c79,7,True,49,Tipo A,306.89261154899464
+1842,2,28,10,Grupo B,Qui harum ducimus.,True,Dolorum excepturi.,Opção C,True,False,Nobis magnam aspernatur quae nam quibusdam hic.,285d07d9-e4c5-44d3-8876-2a6b7bae0029,6,True,80,Tipo B,167.08732620042548
+9185,5,10,5,Grupo A,Quisquam officiis.,False,Quibusdam.,Opção A,True,True,Totam minima excepturi doloremque.,7560733a-6841-4bf8-aab7-406094c62591,4,False,67,Tipo B,231.22470418904535
+8041,4,24,2,Grupo C,Quas vero tempora.,True,Libero illum ullam.,Opção C,True,True,Hic adipisci consectetur quasi assumenda rem.,77fc613f-6cb2-4f02-919b-d9a2fcb3b3ef,4,True,26,Tipo C,188.6236729957319
+2353,4,30,7,Grupo B,Voluptatibus qui.,True,Dolores voluptatum.,Opção B,False,True,Numquam inventore quo a sequi.,3fd77ddc-4e72-4a75-b7e6-f9ac04d42bc7,3,True,48,Tipo A,406.193144301093
+9239,8,4,9,Grupo C,Ad eligendi libero.,True,Vero ad dolor.,Opção A,False,False,Expedita accusantium nisi minima.,ca6237c4-2259-4ac5-bcbf-87faa70c9c5e,8,True,103,Tipo A,163.57759369037393
+6702,3,4,3,Grupo C,Dolorum nostrum non.,True,Quibusdam.,Opção B,False,True,Consequuntur ipsum repudiandae officiis.,4d5af495-71a7-4a19-add1-8d725f4b76f4,3,True,95,Tipo A,289.46604141301964
+2183,1,8,3,Grupo A,Repellat debitis.,False,Amet tenetur.,Opção B,False,False,Quos doloribus minima quo.,cee50c2d-69d3-4cf6-abf4-95d2a7a9f6a0,4,True,46,Tipo C,264.9947736402133
+8245,8,20,8,Grupo A,Amet eum hic magni.,True,Ab libero debitis.,Opção C,False,True,Incidunt ratione quas fugit.,cf49f636-351d-4a12-934e-ba6577a79494,7,False,19,Tipo B,58.11316718923894
+4913,3,25,8,Grupo C,Ad cumque non.,True,Quis beatae.,Opção B,True,True,Cum saepe doloremque sapiente eaque vero.,950b117f-8b64-474c-a0fa-491ee2341ad2,6,False,41,Tipo A,373.57603551733007
+9741,2,29,8,Grupo A,Eaque maxime.,True,Sapiente eaque quis.,Opção C,False,False,Voluptatem cumque iure totam.,f1f4e565-04a0-446f-92b8-fa655101bfde,6,True,22,Tipo B,279.7092314750025
+1034,4,28,10,Grupo C,Ipsum fugiat atque.,True,Quos ea qui.,Opção B,True,True,Maiores amet ad esse nostrum unde.,a3e5912c-4954-4980-9da5-7cd1d62d1930,7,True,93,Tipo A,72.50712193157995
+8139,5,20,4,Grupo B,Iusto libero atque.,False,Eius repellendus.,Opção B,False,False,Ipsum illum enim.,eef3010d-6aa8-440d-ae36-cffaa7e48d4b,8,False,104,Tipo B,102.89921695902478
+4079,5,3,1,Grupo B,Vero ducimus ea.,True,Reprehenderit vitae.,Opção B,True,True,Perferendis totam possimus.,af71db8a-22f5-4fc1-88f9-23b20f0709a4,10,False,23,Tipo B,373.939441542761
+4017,9,17,3,Grupo C,Placeat molestias a.,True,Illum voluptatum.,Opção A,False,True,Dolor itaque officia quaerat mollitia.,4effdda4-228b-47f8-9bd7-187a1d73431c,3,False,115,Tipo A,377.2222596944884
+3146,1,29,10,Grupo B,Numquam voluptatum.,False,Labore asperiores.,Opção B,True,True,Id sapiente natus iste iste voluptate minus.,c0585eaa-80d3-494f-aa39-62ba4376fa7f,10,True,51,Tipo A,256.3663416303458
+2928,3,15,5,Grupo B,Suscipit.,False,Eveniet recusandae.,Opção A,True,False,Numquam sunt nisi odit sunt distinctio molestiae.,2f93b62f-d840-47e0-adf3-7aeb4a627df5,8,True,96,Tipo B,447.1176506678846
+9925,7,25,3,Grupo B,Voluptatum cumque.,False,Distinctio illum.,Opção A,False,False,Debitis odio amet magnam illum nam aperiam.,353bb24c-32f1-4272-b725-71604f50fe59,9,False,72,Tipo C,454.49294157596296
+2222,8,6,4,Grupo B,Nobis quam labore.,False,Suscipit inventore.,Opção C,True,False,Magni perferendis in veniam quas.,2031ebc4-a044-4e78-97d2-43e99ac493cc,4,True,40,Tipo C,256.11341889902826
+2859,8,4,2,Grupo A,Voluptatem.,False,Quas explicabo.,Opção A,True,True,Quisquam voluptatum ab nam minima.,1428307f-3d3e-4dc2-9084-edc06e75dafd,7,False,74,Tipo C,234.03363908262727
+2563,10,11,5,Grupo A,Asperiores iste.,True,Ex autem excepturi.,Opção B,False,True,Temporibus harum inventore sed esse.,44d228f6-a96e-4089-a19b-c72fab4e951f,8,True,117,Tipo C,430.3176491499219
+8810,8,24,5,Grupo C,Ipsam adipisci.,False,At vitae id facilis.,Opção C,False,True,Molestiae recusandae tempore.,72dea54e-032b-47c6-9851-68988ea7f9e9,9,True,44,Tipo C,172.14864619158442
+1661,2,25,9,Grupo C,Adipisci.,True,Quam culpa.,Opção B,False,False,Iusto assumenda porro consequatur.,4c756a92-bb19-4dbe-9444-6794874123b0,2,False,68,Tipo C,284.4255603318304
+5665,10,27,6,Grupo A,Nesciunt harum.,False,Iusto doloremque.,Opção C,False,False,Maiores modi assumenda voluptate modi.,89d3725e-26b1-42d2-aad3-dc540e894dc5,4,False,20,Tipo A,276.78900383467294
+4212,6,24,3,Grupo A,Optio optio.,True,Unde sit nesciunt.,Opção A,True,True,Occaecati dolorum possimus temporibus.,6f396916-6439-44b9-9e26-3a42d379bb5a,10,False,41,Tipo B,336.673098162785
+6143,5,10,8,Grupo A,Molestias sunt sunt.,True,Excepturi tempore.,Opção A,True,False,Itaque molestiae recusandae voluptatibus.,bbe16059-d214-47a1-8ab4-b79436d20f8f,3,False,109,Tipo B,425.7920418245662
+6901,9,12,2,Grupo C,Cupiditate.,True,Adipisci modi sint.,Opção C,False,True,Aut amet mollitia amet quo ipsam minima.,0c788c5a-f3e0-49c7-b0c6-d2d7e9a43f4e,3,True,57,Tipo B,328.32578232374703
+4014,1,17,1,Grupo A,Ut dolore iusto.,True,Sequi reprehenderit.,Opção B,False,True,Quasi recusandae eos aliquid voluptatibus quo.,3eba62e4-131f-4fb4-8c1b-37348cc0d6dd,6,False,31,Tipo B,189.5374086528264
+8255,9,11,7,Grupo C,Magni temporibus.,False,Quidem voluptas.,Opção B,False,False,Perferendis esse modi inventore.,d55e7bb2-e242-4c02-b543-2cd2e4c407a3,7,True,99,Tipo C,87.4712913928717
+7706,4,6,2,Grupo C,Laborum maxime.,True,Rerum vel eligendi.,Opção A,False,True,Facilis dolores quo voluptatem ea.,7bb933b0-37c8-4061-991f-24d6d7fa3002,7,False,117,Tipo C,427.858684601142
+7649,5,5,9,Grupo C,Molestiae dolorem.,False,Debitis illum illo.,Opção C,True,True,Consectetur enim hic iure consequatur.,c2f2d538-6c3f-42ce-b779-97d1b91750ab,7,False,28,Tipo A,462.1727749807383
+9386,5,21,8,Grupo A,Accusamus quae.,False,Omnis eos quisquam.,Opção B,True,False,Qui ipsa mollitia.,7d4c6a7a-a69a-47c6-b82e-9f0f7729cead,10,True,96,Tipo C,190.75852033429936
+9882,2,15,3,Grupo A,Inventore qui rerum.,False,Rerum nesciunt non.,Opção C,True,True,Odio eum deserunt commodi distinctio adipisci.,310e48e7-4f51-4f01-9af5-05a8cf0788b2,5,False,107,Tipo B,163.2264371615091
+1679,2,7,4,Grupo C,Quae a doloremque.,False,Quas corporis.,Opção A,True,False,Accusamus quod eius veniam similique amet.,eeb05e4f-386a-4337-8b3a-90f43c917c64,9,True,87,Tipo A,170.50175121855733
+1921,1,3,1,Grupo B,Qui nesciunt.,True,Iste doloribus.,Opção A,False,False,Quaerat porro corrupti similique quasi nam.,b1e16ce9-0da6-49f3-93f4-212ed860322a,5,True,95,Tipo C,355.23916654377086
+1165,6,7,7,Grupo A,Error sapiente hic.,True,Commodi doloribus.,Opção B,True,True,Repellat corporis odio illum sequi minus.,eb111c8b-3d6b-47ec-8eeb-3ed00b71a4ec,8,True,43,Tipo C,262.0142115150288
+1971,6,23,9,Grupo A,Minus ad dolorum.,True,Consequuntur.,Opção B,False,True,Possimus autem eius voluptates autem temporibus.,f907e3e6-e915-4149-8fee-8d19350ee59b,1,False,34,Tipo C,161.29765091691132
+3585,2,8,9,Grupo A,Laborum cupiditate.,True,Alias excepturi.,Opção C,True,True,Laboriosam amet eos nisi assumenda.,f4ea6113-b3da-4e20-9094-22883141603f,6,False,55,Tipo B,61.81553397116035
+6101,6,6,3,Grupo B,Earum nam et.,False,Cum quam.,Opção B,True,False,Animi officiis nihil vitae iure fugit.,066a1f77-07f9-4b92-901c-08a234d48e5f,9,False,43,Tipo C,413.6797781758213
+9067,4,14,7,Grupo A,Autem voluptas et.,False,A in odio placeat.,Opção A,True,True,Tenetur fugiat non perferendis. At nam a nostrum.,2a2fd857-39af-43f2-9b92-eb0c78899980,4,False,85,Tipo B,289.43429622764756
+4266,4,17,8,Grupo A,Dicta inventore.,False,Asperiores quae.,Opção C,True,False,Aspernatur dicta natus inventore nisi.,f765ced6-bb28-4dfe-927a-4ff1dd446cf6,8,False,27,Tipo A,94.74278278482686
+9001,7,15,3,Grupo A,Laborum ipsum.,True,Quis facilis veniam.,Opção B,False,True,Ea totam vel dolores vel.,bdebb993-c363-4abf-8697-0bfdb8849132,4,False,116,Tipo A,91.89619355307006
+1568,9,22,7,Grupo A,Ea quasi minus.,True,Explicabo.,Opção A,False,False,Mollitia cumque occaecati.,51306a30-0714-4224-a785-6e78415244e3,1,True,76,Tipo A,396.1630000537263
+3275,9,20,6,Grupo B,Blanditiis ipsum.,False,Ipsam totam placeat.,Opção B,False,False,Occaecati placeat recusandae praesentium.,a3253b67-9953-47b1-a113-189fca7b3ae4,4,True,41,Tipo B,172.43491243220313
+5225,10,8,2,Grupo C,Qui nemo rerum non.,False,Ad dolorum fugit.,Opção B,True,False,Rerum ducimus accusamus natus accusamus.,ddefa57f-6cda-4729-9cf9-7aa7b49b3c4d,4,True,63,Tipo B,498.46129739175757
+7527,5,30,8,Grupo B,Maiores.,False,Quia voluptatibus.,Opção C,True,True,Quas a reiciendis natus dicta reprehenderit.,aadf5f5a-d86d-4ecf-ba6b-cf5d33aba65c,8,False,76,Tipo B,122.91510147330213
+9356,2,19,9,Grupo A,Velit voluptatem.,True,Dolorem modi totam.,Opção C,True,False,Nostrum enim rerum at sit tempora.,84ae78a2-c95c-45b3-a444-e06512e7b901,1,True,84,Tipo C,473.6092230021688
+2705,6,28,5,Grupo A,Blanditiis placeat.,False,Neque qui voluptate.,Opção A,False,True,Unde natus iste ut reiciendis consequatur.,be24ee15-f5bb-4c06-b31e-f9c589e19ea9,1,True,19,Tipo A,314.1531263455237
+7886,7,24,10,Grupo C,Minus inventore.,False,Molestiae assumenda.,Opção B,True,False,Minus excepturi beatae temporibus at magnam.,8bc2964f-c6cd-4040-bd92-796caee27ea4,8,False,107,Tipo C,487.2747192486957
+9750,9,19,4,Grupo A,Quia maxime aliquid.,True,In dolorum.,Opção B,False,True,Nulla fugit sed.,a3898d7a-2212-4d02-9aa6-d06b2c42479b,4,True,97,Tipo A,159.74819664563512
+5118,5,10,2,Grupo A,Adipisci officiis.,False,Facilis magni magni.,Opção A,True,False,Quia omnis qui blanditiis quasi dignissimos.,b93ff958-6db3-408d-a3e7-fbc7a4a2ce9b,3,False,78,Tipo C,91.81222183506551
+2614,9,20,6,Grupo A,Nostrum temporibus.,False,Iste voluptates.,Opção B,False,True,Voluptatum minus repudiandae maiores.,0e7a5d2d-bed8-4976-998a-c08783c88885,10,False,54,Tipo C,92.13784273471693
+3567,5,4,8,Grupo C,Dicta accusamus.,True,Harum beatae quae.,Opção C,False,False,Totam quibusdam quidem sed.,d4c2f6f0-0278-4794-a872-c0bddc34ed72,6,True,108,Tipo B,186.52554102809685
+8574,8,11,3,Grupo C,Magnam animi.,False,Nulla fugiat.,Opção B,False,True,Quam nesciunt quia.,edda0e8d-fcd9-4cfc-be90-71e08020b349,6,True,119,Tipo C,235.02292268764353
+6169,3,20,1,Grupo C,Distinctio sit.,True,Consectetur.,Opção B,False,False,Cumque dolor vitae totam earum quas dicta.,432be15a-6e90-4a55-b311-1d0a7552b374,5,True,59,Tipo C,252.68284995915343
+5055,8,19,9,Grupo B,Omnis voluptatem.,True,Voluptates maxime.,Opção C,True,True,Odio quo perferendis minus dolorem.,a2911b38-fd8b-40b3-b627-69d93dbbb613,10,False,24,Tipo B,159.18069160482548
+9901,5,12,5,Grupo B,Maiores totam odit.,True,Alias aperiam odit.,Opção A,False,True,Quisquam rem unde temporibus quia.,c962d6e8-298b-4a59-af6e-7a85f4ebff2e,6,True,68,Tipo B,210.6045082118748
+7157,4,14,8,Grupo C,Consectetur.,False,Eaque culpa enim.,Opção C,False,False,Veniam recusandae magnam culpa delectus porro.,376d8f53-1e8f-4062-a6ed-6ae2ba42350d,4,True,26,Tipo B,489.79487443087135
+8610,7,8,6,Grupo A,Omnis ex nesciunt.,False,Vitae laudantium.,Opção C,True,False,Dolores molestias fugit qui optio earum.,1600aac9-6624-48bf-bdc3-097c30c40add,4,True,34,Tipo C,240.88398410170285
+1834,1,17,5,Grupo B,Excepturi impedit.,False,Magnam dolorum.,Opção B,False,False,Voluptatibus a magni placeat eum.,719e33c1-f2fa-4697-bee1-fcdfff686a53,9,False,61,Tipo C,90.7778910165451
+4313,8,16,10,Grupo C,Incidunt dolor.,False,Praesentium ex in.,Opção C,True,False,Vero inventore corporis soluta.,24a836c3-d795-45a5-a1f9-604da257418e,5,True,118,Tipo C,108.1188164861959
+1523,10,1,9,Grupo C,Vero earum magnam.,True,Blanditiis corporis.,Opção C,True,True,Ab aspernatur dolore praesentium inventore.,3706ad94-cc48-4e4f-9326-351f3b217dad,9,True,27,Tipo B,278.4171667965475
+5557,9,19,6,Grupo A,Accusamus aperiam.,True,Blanditiis aperiam.,Opção A,False,False,Sint non vel eaque.,6ff19a05-65a2-4563-97ba-4a4e4ffae315,2,False,120,Tipo C,317.38640113174677
+9223,1,18,4,Grupo A,Quasi omnis enim.,True,Excepturi rem quam.,Opção A,True,False,Illo consequatur asperiores fugiat.,0056de6d-2a14-4645-85c4-ec4694b51530,1,False,52,Tipo A,422.9436687110708
+8091,7,18,9,Grupo B,At accusamus.,True,Doloribus.,Opção A,True,True,Facilis nulla velit eaque.,5cf8466c-a506-405b-b6d1-8f2808697f86,10,True,16,Tipo B,371.28433594403725
+9531,5,5,10,Grupo A,Reprehenderit.,False,Consectetur quia.,Opção B,False,False,Unde iusto placeat quod.,1a944130-dc53-4492-a596-1b82de03a554,6,False,32,Tipo B,236.22810899606117
+9117,4,25,2,Grupo B,Unde at voluptas.,True,Cum saepe quia.,Opção C,False,False,Reiciendis tenetur harum doloribus incidunt nisi.,c8e98910-f5b1-4b89-8fc6-350b9a9e2777,3,False,68,Tipo B,196.70510963883333
+5201,7,6,9,Grupo A,A illo magnam natus.,False,Ad nam enim neque.,Opção A,True,True,Culpa eius nostrum mollitia.,b0e0fc34-4a04-4b28-a9e7-d84fc437d911,8,True,96,Tipo C,241.27497182734027
+6988,10,6,5,Grupo C,Vero asperiores.,True,Pariatur eveniet.,Opção A,False,True,Iure quisquam aperiam quasi.,d26d15ba-1ae7-48c8-ae1c-2be2c7005da5,10,True,110,Tipo C,448.98990277522415
+7382,4,11,4,Grupo C,Enim blanditiis.,False,Aspernatur odit.,Opção C,True,False,Laudantium nobis doloremque aut vel cumque.,ca2915e2-8043-4e77-9bf3-20cb4c757ed0,6,True,65,Tipo B,120.84449808924563
+3811,6,27,10,Grupo B,Culpa quaerat ut.,False,Officiis vitae.,Opção C,False,True,Quas minus repellat deleniti.,dfc264a7-41d4-4c68-a11d-8312406a6cc8,1,False,71,Tipo C,488.65436511718195
+3890,4,30,7,Grupo C,Distinctio.,True,Corporis optio.,Opção A,False,True,Voluptas asperiores possimus reprehenderit odit.,8ba2ad6c-f960-4567-a06e-68e3ddfed64a,5,False,76,Tipo C,67.69920740855842
+8675,4,4,7,Grupo A,Laudantium facere.,False,Quo est occaecati.,Opção A,False,False,Laboriosam nulla veniam voluptates illum.,37ca0317-c063-4b70-b09e-1dd00f686c17,9,True,47,Tipo B,369.9842523400983
+8246,5,28,7,Grupo C,Maiores illo quidem.,False,Fugiat ut repellat.,Opção B,True,False,Quam suscipit fugit laborum.,92ef1620-8db9-4e66-bee4-2df4097aab9e,3,True,16,Tipo C,210.31321654347482
+5005,9,24,5,Grupo C,Explicabo.,False,Facere ab.,Opção C,False,False,Impedit molestiae laboriosam eius.,9cd4f321-64ff-4536-80a1-dfad1920ba2f,6,False,68,Tipo A,288.4489200219159
+1463,10,13,10,Grupo C,In minus dolor rem.,False,Dolores nisi itaque.,Opção A,True,False,Illum sit veniam.,948452ec-4416-4257-81ff-0b26c5beb8fa,2,False,106,Tipo B,488.8882214265362
+1611,1,30,3,Grupo C,Dolore deserunt.,False,Similique in sit.,Opção C,False,False,Nemo pariatur voluptates.,18d780b2-c69e-4173-8405-24794a36024a,3,False,62,Tipo C,328.08267856645483
+8485,2,24,8,Grupo A,Occaecati eaque.,True,Delectus fugiat.,Opção B,True,False,Quis fugiat beatae ipsam sapiente quibusdam.,75a361b6-23ad-44df-925e-585e97251d54,6,True,21,Tipo C,148.0934959872533
+9884,9,5,4,Grupo A,Ut earum ducimus.,True,Consequuntur.,Opção C,False,True,Magni nostrum dolorem nulla magni.,37511e1c-f843-4fdb-82a8-201f16cb8371,2,True,22,Tipo B,68.8250730816537
+5471,2,8,8,Grupo A,Ipsa ratione.,False,Rem soluta quod.,Opção A,False,True,Optio nostrum quidem maiores eius.,ab472125-0189-4518-befc-f1d80bd92c0b,1,True,53,Tipo C,425.0829176024242
+5130,1,20,3,Grupo A,Illo id cum numquam.,True,Nam tempore error.,Opção C,False,True,Ut dolorum vero numquam hic fugiat.,e03d297a-1e20-4b0c-b280-bf7238629b9a,1,True,65,Tipo C,194.88552834031248
+8770,3,25,4,Grupo C,Laudantium odio.,False,Est explicabo nihil.,Opção C,False,False,Ratione fuga nulla in dolores quas animi ex.,28eb785c-cfd9-4311-8397-64f519cf74cf,8,True,93,Tipo C,405.26249128923087
+6506,4,11,2,Grupo A,Alias qui ipsam.,False,Suscipit enim eum.,Opção B,False,True,Voluptas ullam ex natus libero vitae ullam ipsum.,9a1f0c71-4f46-4d60-8bbe-443f589269de,5,False,54,Tipo B,455.0756404723477
+5403,8,17,10,Grupo B,Ducimus totam ipsum.,True,Dicta sit accusamus.,Opção A,True,False,Ipsam possimus excepturi.,49bb45d6-43df-43f8-b490-378d20ddaff0,1,True,73,Tipo A,69.2848557940637
+3037,1,8,3,Grupo A,Aut voluptatibus.,False,Velit consequuntur.,Opção B,True,True,Quo ipsam nam harum magni repudiandae.,b4561ce9-9f91-4731-bba2-4b82fb53f8a2,10,True,98,Tipo A,345.50647234684317
+1989,4,15,10,Grupo C,Sed error earum.,True,Asperiores expedita.,Opção A,True,False,Corporis voluptas itaque.,83a7a4cf-9030-4b7b-805d-6fb0bb92b5b7,4,True,65,Tipo A,442.0410352341821
+1091,9,27,5,Grupo C,Eum excepturi.,False,Ex ullam aspernatur.,Opção C,False,False,Sint nemo dignissimos sed facilis beatae ratione.,81d428e3-6945-4906-9d46-863bacfebfe7,5,False,107,Tipo B,61.202810091814825
+2283,10,2,9,Grupo C,Officia dolore.,False,Quasi minus.,Opção C,True,False,Quas laborum porro veritatis tempore quam.,9ab8a51f-06c6-402c-9a60-15a18f98d906,3,False,92,Tipo B,85.36967826721494
+4623,5,21,6,Grupo A,A quia rem.,True,Reprehenderit.,Opção C,False,False,Optio accusantium ea aliquam similique.,221e711d-bcb9-4f8c-8372-9dfcf5caeaab,2,False,46,Tipo B,379.5099930334887
+3209,1,5,5,Grupo A,Deleniti dolorum.,False,Provident dolores.,Opção C,False,True,Ea veniam dolores laudantium.,126e409a-6549-4222-902e-5d9096720a2c,3,False,57,Tipo A,387.38284424735207
+9137,1,22,10,Grupo A,Sint quia.,False,Libero iusto.,Opção C,True,False,Saepe explicabo quo alias animi nihil autem.,6e8f044f-4929-4842-a072-04295db48887,5,False,105,Tipo A,491.95135000344396
+1225,3,28,7,Grupo C,Ullam neque natus.,True,Quaerat expedita.,Opção A,True,False,Non corporis at odio soluta dicta.,292dc443-7f06-4076-b520-e7803e8c48a1,8,False,61,Tipo A,85.27205323492362
+3912,2,10,1,Grupo A,Nostrum et libero.,False,Magnam.,Opção B,True,True,Voluptatem laborum incidunt aliquid.,8b1a414f-9e96-4594-905a-3c634a7903bb,8,False,42,Tipo C,74.1505205004137
+4703,2,13,4,Grupo B,Blanditiis iure.,True,Illo nam ab amet.,Opção B,False,True,Sequi nobis corrupti.,e6d9b45a-d963-44b5-a738-e7f62585a276,3,False,118,Tipo C,432.88863083390413
+4415,5,22,6,Grupo A,Eius dolore.,False,Perferendis culpa.,Opção C,True,True,Itaque placeat aut autem alias sequi.,2ccdca00-7321-4c26-aeac-7ebaed6b1f84,7,False,74,Tipo B,496.2450829314584
+4644,2,23,8,Grupo B,Commodi.,False,Nihil vitae cumque.,Opção A,True,False,Corrupti necessitatibus corrupti fuga.,f3c1be74-6419-42fe-82b1-3ecaa1d86442,7,False,30,Tipo B,95.94329399924167
+9476,2,23,3,Grupo A,Odio fuga alias.,False,Ratione quia.,Opção B,True,False,Dolores atque sed odit.,518de898-d43a-4472-b35a-33b68ee029c6,1,False,90,Tipo A,303.59526128428803
+5831,3,4,5,Grupo A,Provident velit.,True,Deserunt ut itaque.,Opção C,True,True,Facilis sint numquam necessitatibus.,bbdcf9d6-c247-48c8-a6ed-c9fca5ac8417,8,True,88,Tipo B,411.9227593903589
+5661,8,20,10,Grupo C,Quasi nulla qui.,False,Tempora accusamus.,Opção B,False,True,Fugiat eligendi porro unde maiores adipisci.,a3f271d0-5e17-4581-a019-cce6d25c8d7e,1,True,118,Tipo C,396.2137134488719
+3139,3,27,9,Grupo C,Vero doloremque ad.,True,Voluptates ut error.,Opção A,True,True,Voluptates similique nam quod assumenda mollitia.,2e6c9bf4-7dc5-43fd-8875-8df6e5c44e1f,6,False,83,Tipo C,242.2862817151543
+2106,3,27,1,Grupo B,Porro neque.,True,Itaque consequatur.,Opção A,True,False,Iusto dolore eum quis pariatur distinctio.,1ea21a82-57d0-444f-a87d-afe6617fa9b8,9,True,37,Tipo C,199.4279967347252
+1265,8,12,9,Grupo C,Repellendus autem.,False,Odit explicabo.,Opção A,True,True,Nisi vel ratione omnis itaque nemo in pariatur.,199a8667-ea1c-4bb2-950e-64d01b920281,3,True,34,Tipo C,383.29932550601
+2168,6,29,5,Grupo B,Officiis illum.,True,Consectetur.,Opção A,False,True,Nam dolorem sed explicabo fuga natus velit.,df0c882d-a81b-45cf-9d14-8092961f0bd5,8,True,113,Tipo C,391.5361033001073
+3116,7,20,2,Grupo C,Temporibus velit.,False,Magnam nemo aperiam.,Opção C,False,True,Quos quibusdam nobis mollitia dolorum.,fa216e38-1aa2-4387-9eef-af0f0efb9e18,8,True,55,Tipo B,361.33554054171157
+1268,5,11,5,Grupo B,Aliquid totam omnis.,False,Ducimus vitae.,Opção C,True,True,Ad vitae aut.,571f8424-7189-49d7-95a8-8c5f98bbf1be,3,True,34,Tipo C,413.9702660512641
+7986,1,27,9,Grupo B,Atque iste amet.,False,Dolorem aspernatur.,Opção B,True,False,Recusandae magni suscipit doloribus earum quod.,fb4d2b7a-821c-4452-bdbb-acbc43dbcc88,4,False,17,Tipo B,79.09292961572385
+8000,5,10,10,Grupo A,Nam at non.,True,Pariatur ex unde.,Opção A,True,True,Assumenda commodi hic tempore saepe ipsam beatae.,d667a7cc-5253-498d-a301-137be754c870,2,True,90,Tipo A,384.4336762862299
+9018,9,6,3,Grupo B,Inventore vero.,False,Ipsum inventore eos.,Opção A,False,False,Exercitationem magnam quas aut.,cc116047-2c3f-4277-8e04-527fa34188bc,10,False,80,Tipo C,454.0236534817236
+1154,7,5,4,Grupo B,Iste voluptatem.,False,Cupiditate nobis et.,Opção A,True,False,Quod neque porro. Sunt mollitia consequuntur.,5a2d1a68-b86f-4ba8-96db-885dfe63a69e,6,False,120,Tipo A,300.15122418723627
+3009,3,7,5,Grupo B,Aliquid rerum.,True,Quam non.,Opção C,False,True,Reiciendis voluptatem provident eveniet.,c5631f93-e067-4f5c-8b38-14553a49f4cc,2,True,67,Tipo A,249.39694057091214
+5484,7,23,8,Grupo A,Nihil voluptatum.,False,Quaerat voluptate.,Opção C,False,False,Aperiam saepe officia facere.,e186872d-3aee-4d14-b494-b4fbd90e6f0e,5,True,85,Tipo C,164.63132250748697
+3987,2,1,6,Grupo B,Nesciunt.,False,Ipsa dicta nemo ab.,Opção A,False,True,Libero ad non fugiat.,b6f54fa8-a59f-44c2-b60d-ef07ca670dc4,4,True,77,Tipo C,188.2740981985168
+7628,10,7,2,Grupo C,Sit fuga ullam.,True,Maiores illo.,Opção B,False,False,Tenetur qui nihil tenetur.,dc5a56fe-5f84-4d27-86c6-8273da4ceee2,8,False,99,Tipo C,177.93383691091702
+8148,8,8,1,Grupo B,Excepturi dicta.,True,Quod aliquam quis.,Opção C,False,True,Quo aperiam nihil excepturi dolorem.,5b7d4fd4-ce0d-4b5f-b886-856a51fef78f,8,True,51,Tipo A,497.13633498928453
+9645,3,24,9,Grupo A,Eaque assumenda.,True,Amet provident et.,Opção B,True,True,Dolore commodi quos atque dicta occaecati.,4051131b-d6b5-417a-bc9c-9c6225e72ad2,6,True,32,Tipo C,56.29332067121514
+8488,3,4,4,Grupo C,Architecto.,False,Hic molestias illum.,Opção B,True,True,Porro ipsum non quibusdam eaque sapiente sequi.,18f1e40b-811e-40f3-b5d7-3b4889069966,3,True,106,Tipo B,344.22779033352924
+5622,1,18,7,Grupo A,Perferendis at.,True,Eius earum velit.,Opção B,False,True,Facere aspernatur debitis tempore excepturi.,c6a21cfa-0e0c-4f16-a519-1db5ff57a940,5,False,27,Tipo A,286.2995793018963
+3276,6,14,8,Grupo C,Ipsam ab.,True,Voluptatem amet.,Opção A,True,True,Voluptate corrupti expedita cumque ullam.,4c082494-03c2-42ad-a2c9-7e4f48120853,7,False,108,Tipo C,250.20514099802975
+5086,1,23,4,Grupo B,Repellat.,False,Fuga quisquam.,Opção C,False,False,Voluptates qui sit error eaque excepturi.,7d021838-379b-48e5-98f4-a73c2eb63e26,10,False,34,Tipo C,103.85938901967575
+1423,2,4,3,Grupo C,Quam expedita ipsum.,False,Fuga iusto.,Opção B,True,False,Commodi quam culpa ipsa debitis soluta.,d3bd3b81-3f30-4a7c-82ab-459392329429,8,False,115,Tipo B,248.44490768291513
+7960,2,28,3,Grupo B,Quis explicabo quos.,False,Ex fugit magni eum.,Opção C,True,True,Neque odio hic consectetur.,72536cfc-4df1-4a3e-9217-f457fde0405e,5,False,94,Tipo C,51.747818508294046
+6961,8,9,3,Grupo C,Quo minus tenetur.,False,Quis expedita quam.,Opção B,True,True,Voluptas illum natus commodi doloribus amet.,3e4b922c-20eb-4c0f-a731-dee267980d75,1,True,30,Tipo A,465.27840877583395
+4151,3,4,6,Grupo C,Itaque veritatis.,False,Ipsa aliquam.,Opção A,True,True,Dolor unde nesciunt.,4d7e5b4a-b13e-43a4-9c13-8e6ad354910e,8,True,116,Tipo A,189.72961509165034
+6865,5,21,2,Grupo B,Cumque eum tenetur.,False,Necessitatibus.,Opção B,False,True,Dignissimos in aliquam iure.,afdc5aa4-62b8-47de-beb4-bde01abd3bf0,4,False,55,Tipo C,392.540998340348
+8584,4,27,10,Grupo A,Alias non.,True,Id tenetur debitis.,Opção A,True,True,Veritatis accusantium magnam dolor pariatur odio.,6f5e8f5a-1766-4c56-9517-3496edf799f9,9,False,115,Tipo A,256.5860166103329
+5985,4,17,9,Grupo B,Occaecati.,True,Consequuntur culpa.,Opção A,True,True,Soluta eveniet voluptatem nesciunt vel natus.,45e36d71-3223-4130-b146-1849f60185e4,4,True,119,Tipo B,168.18555296195626
+7765,6,26,9,Grupo C,Provident ducimus.,True,Facere vitae.,Opção A,True,True,Minus ex repellat fuga voluptatibus.,c1708765-b53b-4af7-a109-b8e6c06fcd34,3,False,60,Tipo A,153.07949590679397
+9185,10,2,5,Grupo B,Tempore excepturi.,True,Mollitia ipsum.,Opção C,False,False,Itaque illo error veniam qui.,6999d603-0b88-4957-a01e-f8cb377dfe8c,2,False,20,Tipo C,437.10393518311
+4911,5,26,4,Grupo A,In molestias.,False,Veritatis ipsam.,Opção A,True,True,Eaque animi provident nostrum corrupti ullam.,696682b0-62fd-4141-a868-99d6d412277b,2,False,67,Tipo A,207.54371350872998
+5146,5,7,10,Grupo A,Odit temporibus.,True,Aut qui iusto a.,Opção B,True,True,Magni exercitationem recusandae officia.,27399cd0-6d4a-4955-b7b4-b846583ac6d8,7,True,113,Tipo C,171.95417667744687
+1785,7,20,5,Grupo C,Libero repudiandae.,True,Eum maxime officiis.,Opção A,False,False,Pariatur dolor quisquam culpa corporis quos.,96403b66-9610-4b44-9c7e-84363ec9efdc,4,False,73,Tipo A,303.9568801747597
+8070,2,14,10,Grupo C,Voluptates ipsa cum.,True,Vero adipisci cum.,Opção A,False,True,Vitae officiis veniam magnam.,9ad15a88-c67d-4c99-bf14-42a4aaeb739a,5,False,26,Tipo C,59.1751949487459
+1540,7,12,7,Grupo C,Quia quas eaque.,False,Earum tempora.,Opção B,False,False,Eum ratione quaerat.,3c48d28f-3ceb-4961-86ed-25896bd0b969,8,False,71,Tipo C,93.20152501492447
+6158,2,17,10,Grupo B,Magni repellendus.,False,Perferendis cumque.,Opção B,False,True,Rem repudiandae inventore consequuntur.,474e592e-2a28-402f-a6cf-44e3e9c652e6,5,True,81,Tipo C,103.58179303758385
+1531,5,1,9,Grupo B,Culpa ratione.,True,Praesentium quam.,Opção A,False,True,Qui nam quidem deserunt.,0e100ab8-82b9-4e42-b483-6bd21882fad3,4,True,76,Tipo B,493.9293521438214
